@@ -1,53 +1,37 @@
-import org.json.simple.JSONArray;
-import org.json.simple.JSONObject;
-import org.json.simple.parser.JSONParser;
 
-import java.io.File;
-import java.io.FileNotFoundException;
-import java.io.FileReader;
-import java.io.IOException;
+public class ServerAPI extends Parser{
+    /**
+     *
+     * Alle jsons zouden moeten werken
+     * 2015_test.xml levert een rauw resultaat
+     * @param args
+     * @throws Exception
+     */
+    public static void main(String[] args) throws Exception {
+        String filePath = "resources/2015_test.xml";
+        Parser parser = new Parser();
+        String ext = getExtension(filePath);
+        if(ext.equals("json") )
+        {
+            parser.parseJsonFile(filePath);
+        }
+        if (ext.equals("xml")){
+            parser.parseXmlFile(filePath);
+        } else {
+            System.out.println("No file is recognised");
+        }
 
-public class ServerAPI {
-
-    public static void main(String[] args){
-        String file = "resources/2016.json";
-        String extension = getExtension(file);
     }
 
-    public static String getExtension(String file)
+    public static String getExtension(String filePath)
     {
         String extension = "";
 
-        int i = file.lastIndexOf('.');
+        int i = filePath.lastIndexOf('.');
         if (i > 0) {
-            extension = file.substring(i+1);
+            extension = filePath.substring(i+1);
         }
         return extension;
     }
-
-
-
-    private void parseJsonFile(File file) throws Exception
-    {
-        JSONParser jsonParser = new JSONParser();
-
-        try (FileReader reader = new FileReader(file)) {
-            //Read JSON file
-            Object obj = jsonParser.parse(reader);
-            JSONArray happyList = (JSONArray) obj;
-            int count = happyList.size();
-            System.out.println(count);
-            for(int i = 0; i < count; i++)
-            {
-                JSONObject jsonObject = (JSONObject) happyList.get(i);
-                System.out.println("jsonObject " + i + ": " + jsonObject);
-            }
-        } catch (FileNotFoundException e) {
-            e.printStackTrace();
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-    }
-
 }
 
