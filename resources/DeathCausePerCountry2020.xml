@@ -1,0 +1,1531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <Country Name>Afghanistan</Country Name>
+    <Interpersonal violence>5015</Interpersonal violence>
+    <Alcohol use disorders>147</Alcohol use disorders>
+    <Drug use disorders>406</Drug use disorders>
+    <Self-harm>1613</Self-harm>
+    <Conflict and terrorism>24295</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Albania</Country Name>
+    <Interpersonal violence>57</Interpersonal violence>
+    <Alcohol use disorders>18</Alcohol use disorders>
+    <Drug use disorders>29</Drug use disorders>
+    <Self-harm>152</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Algeria</Country Name>
+    <Interpersonal violence>459</Interpersonal violence>
+    <Alcohol use disorders>111</Alcohol use disorders>
+    <Drug use disorders>526</Drug use disorders>
+    <Self-harm>1515</Self-harm>
+    <Conflict and terrorism>13</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Andorra</Country Name>
+    <Interpersonal violence>0</Interpersonal violence>
+    <Alcohol use disorders>1</Alcohol use disorders>
+    <Drug use disorders>0</Drug use disorders>
+    <Self-harm>8</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Angola</Country Name>
+    <Interpersonal violence>974</Interpersonal violence>
+    <Alcohol use disorders>211</Alcohol use disorders>
+    <Drug use disorders>80</Drug use disorders>
+    <Self-harm>1928</Self-harm>
+    <Conflict and terrorism>16</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Antigua and Barbuda</Country Name>
+    <Interpersonal violence>5</Interpersonal violence>
+    <Alcohol use disorders>7</Alcohol use disorders>
+    <Drug use disorders>0</Drug use disorders>
+    <Self-harm>3</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Argentina</Country Name>
+    <Interpersonal violence>2881</Interpersonal violence>
+    <Alcohol use disorders>821</Alcohol use disorders>
+    <Drug use disorders>86</Drug use disorders>
+    <Self-harm>5029</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Armenia</Country Name>
+    <Interpersonal violence>153</Interpersonal violence>
+    <Alcohol use disorders>69</Alcohol use disorders>
+    <Drug use disorders>10</Drug use disorders>
+    <Self-harm>287</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Australia</Country Name>
+    <Interpersonal violence>322</Interpersonal violence>
+    <Alcohol use disorders>590</Alcohol use disorders>
+    <Drug use disorders>1128</Drug use disorders>
+    <Self-harm>2898</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Austria</Country Name>
+    <Interpersonal violence>70</Interpersonal violence>
+    <Alcohol use disorders>517</Alcohol use disorders>
+    <Drug use disorders>140</Drug use disorders>
+    <Self-harm>1418</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Azerbaijan</Country Name>
+    <Interpersonal violence>372</Interpersonal violence>
+    <Alcohol use disorders>225</Alcohol use disorders>
+    <Drug use disorders>39</Drug use disorders>
+    <Self-harm>379</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Bahamas</Country Name>
+    <Interpersonal violence>111</Interpersonal violence>
+    <Alcohol use disorders>18</Alcohol use disorders>
+    <Drug use disorders>2</Drug use disorders>
+    <Self-harm>12</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Bahrain</Country Name>
+    <Interpersonal violence>27</Interpersonal violence>
+    <Alcohol use disorders>6</Alcohol use disorders>
+    <Drug use disorders>3</Drug use disorders>
+    <Self-harm>77</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Bangladesh</Country Name>
+    <Interpersonal violence>3954</Interpersonal violence>
+    <Alcohol use disorders>322</Alcohol use disorders>
+    <Drug use disorders>299</Drug use disorders>
+    <Self-harm>7365</Self-harm>
+    <Conflict and terrorism>155</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Barbados</Country Name>
+    <Interpersonal violence>33</Interpersonal violence>
+    <Alcohol use disorders>8</Alcohol use disorders>
+    <Drug use disorders>1</Drug use disorders>
+    <Self-harm>15</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Belarus</Country Name>
+    <Interpersonal violence>776</Interpersonal violence>
+    <Alcohol use disorders>2973</Alcohol use disorders>
+    <Drug use disorders>235</Drug use disorders>
+    <Self-harm>2272</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Belgium</Country Name>
+    <Interpersonal violence>163</Interpersonal violence>
+    <Alcohol use disorders>525</Alcohol use disorders>
+    <Drug use disorders>224</Drug use disorders>
+    <Self-harm>2212</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Belize</Country Name>
+    <Interpersonal violence>114</Interpersonal violence>
+    <Alcohol use disorders>11</Alcohol use disorders>
+    <Drug use disorders>1</Drug use disorders>
+    <Self-harm>28</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Benin</Country Name>
+    <Interpersonal violence>898</Interpersonal violence>
+    <Alcohol use disorders>68</Alcohol use disorders>
+    <Drug use disorders>15</Drug use disorders>
+    <Self-harm>742</Self-harm>
+    <Conflict and terrorism>1</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Bermuda</Country Name>
+    <Interpersonal violence>2</Interpersonal violence>
+    <Alcohol use disorders>1</Alcohol use disorders>
+    <Drug use disorders>1</Drug use disorders>
+    <Self-harm>3</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Bhutan</Country Name>
+    <Interpersonal violence>7</Interpersonal violence>
+    <Alcohol use disorders>7</Alcohol use disorders>
+    <Drug use disorders>2</Drug use disorders>
+    <Self-harm>41</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Bolivia</Country Name>
+    <Interpersonal violence>615</Interpersonal violence>
+    <Alcohol use disorders>368</Alcohol use disorders>
+    <Drug use disorders>56</Drug use disorders>
+    <Self-harm>743</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Bosnia and Herzegovina</Country Name>
+    <Interpersonal violence>84</Interpersonal violence>
+    <Alcohol use disorders>90</Alcohol use disorders>
+    <Drug use disorders>11</Drug use disorders>
+    <Self-harm>366</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Botswana</Country Name>
+    <Interpersonal violence>469</Interpersonal violence>
+    <Alcohol use disorders>29</Alcohol use disorders>
+    <Drug use disorders>7</Drug use disorders>
+    <Self-harm>403</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Brazil</Country Name>
+    <Interpersonal violence>65907</Interpersonal violence>
+    <Alcohol use disorders>9705</Alcohol use disorders>
+    <Drug use disorders>1127</Drug use disorders>
+    <Self-harm>13503</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Brunei</Country Name>
+    <Interpersonal violence>6</Interpersonal violence>
+    <Alcohol use disorders>2</Alcohol use disorders>
+    <Drug use disorders>2</Drug use disorders>
+    <Self-harm>25</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Bulgaria</Country Name>
+    <Interpersonal violence>182</Interpersonal violence>
+    <Alcohol use disorders>101</Alcohol use disorders>
+    <Drug use disorders>69</Drug use disorders>
+    <Self-harm>1087</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Burkina Faso</Country Name>
+    <Interpersonal violence>2139</Interpersonal violence>
+    <Alcohol use disorders>156</Alcohol use disorders>
+    <Drug use disorders>58</Drug use disorders>
+    <Self-harm>1545</Self-harm>
+    <Conflict and terrorism>707</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Burundi</Country Name>
+    <Interpersonal violence>126</Interpersonal violence>
+    <Alcohol use disorders>86</Alcohol use disorders>
+    <Drug use disorders>16</Drug use disorders>
+    <Self-harm>800</Self-harm>
+    <Conflict and terrorism>80</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Cambodia</Country Name>
+    <Interpersonal violence>495</Interpersonal violence>
+    <Alcohol use disorders>133</Alcohol use disorders>
+    <Drug use disorders>37</Drug use disorders>
+    <Self-harm>785</Self-harm>
+    <Conflict and terrorism>2</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Cameroon</Country Name>
+    <Interpersonal violence>916</Interpersonal violence>
+    <Alcohol use disorders>187</Alcohol use disorders>
+    <Drug use disorders>79</Drug use disorders>
+    <Self-harm>2260</Self-harm>
+    <Conflict and terrorism>626</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Canada</Country Name>
+    <Interpersonal violence>552</Interpersonal violence>
+    <Alcohol use disorders>1361</Alcohol use disorders>
+    <Drug use disorders>2526</Drug use disorders>
+    <Self-harm>4699</Self-harm>
+    <Conflict and terrorism>1</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Cape Verde</Country Name>
+    <Interpersonal violence>81</Interpersonal violence>
+    <Alcohol use disorders>5</Alcohol use disorders>
+    <Drug use disorders>1</Drug use disorders>
+    <Self-harm>82</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Chad</Country Name>
+    <Interpersonal violence>1234</Interpersonal violence>
+    <Alcohol use disorders>88</Alcohol use disorders>
+    <Drug use disorders>14</Drug use disorders>
+    <Self-harm>996</Self-harm>
+    <Conflict and terrorism>276</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Chile</Country Name>
+    <Interpersonal violence>793</Interpersonal violence>
+    <Alcohol use disorders>531</Alcohol use disorders>
+    <Drug use disorders>71</Drug use disorders>
+    <Self-harm>2006</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>China</Country Name>
+    <Interpersonal violence>11970</Interpersonal violence>
+    <Alcohol use disorders>19459</Alcohol use disorders>
+    <Drug use disorders>11445</Drug use disorders>
+    <Self-harm>121217</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Colombia</Country Name>
+    <Interpersonal violence>17061</Interpersonal violence>
+    <Alcohol use disorders>124</Alcohol use disorders>
+    <Drug use disorders>127</Drug use disorders>
+    <Self-harm>2731</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Comoros</Country Name>
+    <Interpersonal violence>67</Interpersonal violence>
+    <Alcohol use disorders>6</Alcohol use disorders>
+    <Drug use disorders>2</Drug use disorders>
+    <Self-harm>41</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Congo</Country Name>
+    <Interpersonal violence>245</Interpersonal violence>
+    <Alcohol use disorders>55</Alcohol use disorders>
+    <Drug use disorders>23</Drug use disorders>
+    <Self-harm>423</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Cook Islands</Country Name>
+    <Interpersonal violence>0</Interpersonal violence>
+    <Alcohol use disorders>0</Alcohol use disorders>
+    <Drug use disorders>0</Drug use disorders>
+    <Self-harm>2</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Costa Rica</Country Name>
+    <Interpersonal violence>503</Interpersonal violence>
+    <Alcohol use disorders>84</Alcohol use disorders>
+    <Drug use disorders>26</Drug use disorders>
+    <Self-harm>389</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Cote d&apos;Ivoire</Country Name>
+    <Interpersonal violence>2307</Interpersonal violence>
+    <Alcohol use disorders>191</Alcohol use disorders>
+    <Drug use disorders>38</Drug use disorders>
+    <Self-harm>1960</Self-harm>
+    <Conflict and terrorism>10</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Croatia</Country Name>
+    <Interpersonal violence>47</Interpersonal violence>
+    <Alcohol use disorders>268</Alcohol use disorders>
+    <Drug use disorders>70</Drug use disorders>
+    <Self-harm>694</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Cuba</Country Name>
+    <Interpersonal violence>642</Interpersonal violence>
+    <Alcohol use disorders>570</Alcohol use disorders>
+    <Drug use disorders>31</Drug use disorders>
+    <Self-harm>1736</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Cyprus</Country Name>
+    <Interpersonal violence>21</Interpersonal violence>
+    <Alcohol use disorders>9</Alcohol use disorders>
+    <Drug use disorders>17</Drug use disorders>
+    <Self-harm>67</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Czechoslovakia</Country Name>
+    <Interpersonal violence>105</Interpersonal violence>
+    <Alcohol use disorders>445</Alcohol use disorders>
+    <Drug use disorders>136</Drug use disorders>
+    <Self-harm>1479</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Democratic Republic of Congo</Country Name>
+    <Interpersonal violence>2891</Interpersonal violence>
+    <Alcohol use disorders>672</Alcohol use disorders>
+    <Drug use disorders>217</Drug use disorders>
+    <Self-harm>5980</Self-harm>
+    <Conflict and terrorism>1630</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Denmark</Country Name>
+    <Interpersonal violence>43</Interpersonal violence>
+    <Alcohol use disorders>817</Alcohol use disorders>
+    <Drug use disorders>198</Drug use disorders>
+    <Self-harm>668</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Djibouti</Country Name>
+    <Interpersonal violence>109</Interpersonal violence>
+    <Alcohol use disorders>12</Alcohol use disorders>
+    <Drug use disorders>3</Drug use disorders>
+    <Self-harm>75</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Dominica</Country Name>
+    <Interpersonal violence>8</Interpersonal violence>
+    <Alcohol use disorders>4</Alcohol use disorders>
+    <Drug use disorders>0</Drug use disorders>
+    <Self-harm>4</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Dominican Republic</Country Name>
+    <Interpersonal violence>1993</Interpersonal violence>
+    <Alcohol use disorders>151</Alcohol use disorders>
+    <Drug use disorders>53</Drug use disorders>
+    <Self-harm>671</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Ecuador</Country Name>
+    <Interpersonal violence>1907</Interpersonal violence>
+    <Alcohol use disorders>349</Alcohol use disorders>
+    <Drug use disorders>67</Drug use disorders>
+    <Self-harm>1678</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Egypt</Country Name>
+    <Interpersonal violence>512</Interpersonal violence>
+    <Alcohol use disorders>150</Alcohol use disorders>
+    <Drug use disorders>82</Drug use disorders>
+    <Self-harm>3105</Self-harm>
+    <Conflict and terrorism>682</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>El Salvador</Country Name>
+    <Interpersonal violence>3047</Interpersonal violence>
+    <Alcohol use disorders>874</Alcohol use disorders>
+    <Drug use disorders>11</Drug use disorders>
+    <Self-harm>531</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>England</Country Name>
+    <Interpersonal violence>260</Interpersonal violence>
+    <Alcohol use disorders>1337</Alcohol use disorders>
+    <Drug use disorders>1914</Drug use disorders>
+    <Self-harm>4436</Self-harm>
+    <Conflict and terrorism>2</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Estonia</Country Name>
+    <Interpersonal violence>58</Interpersonal violence>
+    <Alcohol use disorders>214</Alcohol use disorders>
+    <Drug use disorders>128</Drug use disorders>
+    <Self-harm>208</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Ethiopia</Country Name>
+    <Interpersonal violence>7175</Interpersonal violence>
+    <Alcohol use disorders>647</Alcohol use disorders>
+    <Drug use disorders>217</Drug use disorders>
+    <Self-harm>5655</Self-harm>
+    <Conflict and terrorism>165</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Fiji</Country Name>
+    <Interpersonal violence>35</Interpersonal violence>
+    <Alcohol use disorders>2</Alcohol use disorders>
+    <Drug use disorders>3</Drug use disorders>
+    <Self-harm>84</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Finland</Country Name>
+    <Interpersonal violence>83</Interpersonal violence>
+    <Alcohol use disorders>565</Alcohol use disorders>
+    <Drug use disorders>291</Drug use disorders>
+    <Self-harm>873</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>France</Country Name>
+    <Interpersonal violence>538</Interpersonal violence>
+    <Alcohol use disorders>3748</Alcohol use disorders>
+    <Drug use disorders>1839</Drug use disorders>
+    <Self-harm>11014</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Gabon</Country Name>
+    <Interpersonal violence>76</Interpersonal violence>
+    <Alcohol use disorders>19</Alcohol use disorders>
+    <Drug use disorders>10</Drug use disorders>
+    <Self-harm>172</Self-harm>
+    <Conflict and terrorism>2</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Gambia</Country Name>
+    <Interpersonal violence>15</Interpersonal violence>
+    <Alcohol use disorders>14</Alcohol use disorders>
+    <Drug use disorders>3</Drug use disorders>
+    <Self-harm>129</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Georgia</Country Name>
+    <Interpersonal violence>125</Interpersonal violence>
+    <Alcohol use disorders>42</Alcohol use disorders>
+    <Drug use disorders>26</Drug use disorders>
+    <Self-harm>313</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Germany</Country Name>
+    <Interpersonal violence>617</Interpersonal violence>
+    <Alcohol use disorders>6379</Alcohol use disorders>
+    <Drug use disorders>1678</Drug use disorders>
+    <Self-harm>11664</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Ghana</Country Name>
+    <Interpersonal violence>774</Interpersonal violence>
+    <Alcohol use disorders>231</Alcohol use disorders>
+    <Drug use disorders>58</Drug use disorders>
+    <Self-harm>2065</Self-harm>
+    <Conflict and terrorism>20</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Greece</Country Name>
+    <Interpersonal violence>130</Interpersonal violence>
+    <Alcohol use disorders>42</Alcohol use disorders>
+    <Drug use disorders>186</Drug use disorders>
+    <Self-harm>500</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Greenland</Country Name>
+    <Interpersonal violence>5</Interpersonal violence>
+    <Alcohol use disorders>9</Alcohol use disorders>
+    <Drug use disorders>2</Drug use disorders>
+    <Self-harm>34</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Guatemala</Country Name>
+    <Interpersonal violence>6293</Interpersonal violence>
+    <Alcohol use disorders>1769</Alcohol use disorders>
+    <Drug use disorders>218</Drug use disorders>
+    <Self-harm>953</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Guinea</Country Name>
+    <Interpersonal violence>987</Interpersonal violence>
+    <Alcohol use disorders>80</Alcohol use disorders>
+    <Drug use disorders>17</Drug use disorders>
+    <Self-harm>805</Self-harm>
+    <Conflict and terrorism>13</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Guyana</Country Name>
+    <Interpersonal violence>179</Interpersonal violence>
+    <Alcohol use disorders>27</Alcohol use disorders>
+    <Drug use disorders>2</Drug use disorders>
+    <Self-harm>250</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Haiti</Country Name>
+    <Interpersonal violence>3519</Interpersonal violence>
+    <Alcohol use disorders>383</Alcohol use disorders>
+    <Drug use disorders>42</Drug use disorders>
+    <Self-harm>1017</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Honduras</Country Name>
+    <Interpersonal violence>3321</Interpersonal violence>
+    <Alcohol use disorders>389</Alcohol use disorders>
+    <Drug use disorders>104</Drug use disorders>
+    <Self-harm>241</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Hungary</Country Name>
+    <Interpersonal violence>144</Interpersonal violence>
+    <Alcohol use disorders>541</Alcohol use disorders>
+    <Drug use disorders>63</Drug use disorders>
+    <Self-harm>1902</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Hong Kong</Country Name>
+    <Interpersonal violence>125</Interpersonal violence>
+    <Alcohol use disorders>42</Alcohol use disorders>
+    <Drug use disorders>26</Drug use disorders>
+    <Self-harm>313</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Iceland</Country Name>
+    <Interpersonal violence>2</Interpersonal violence>
+    <Alcohol use disorders>8</Alcohol use disorders>
+    <Drug use disorders>14</Drug use disorders>
+    <Self-harm>37</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>India</Country Name>
+    <Interpersonal violence>40954</Interpersonal violence>
+    <Alcohol use disorders>23261</Alcohol use disorders>
+    <Drug use disorders>8465</Drug use disorders>
+    <Self-harm>195336</Self-harm>
+    <Conflict and terrorism>688</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Indonesia</Country Name>
+    <Interpersonal violence>2261</Interpersonal violence>
+    <Alcohol use disorders>653</Alcohol use disorders>
+    <Drug use disorders>589</Drug use disorders>
+    <Self-harm>7658</Self-harm>
+    <Conflict and terrorism>57</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Iran</Country Name>
+    <Interpersonal violence>2209</Interpersonal violence>
+    <Alcohol use disorders>250</Alcohol use disorders>
+    <Drug use disorders>2918</Drug use disorders>
+    <Self-harm>4172</Self-harm>
+    <Conflict and terrorism>38</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Iraq</Country Name>
+    <Interpersonal violence>4816</Interpersonal violence>
+    <Alcohol use disorders>57</Alcohol use disorders>
+    <Drug use disorders>585</Drug use disorders>
+    <Self-harm>2075</Self-harm>
+    <Conflict and terrorism>1779</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Ireland</Country Name>
+    <Interpersonal violence>32</Interpersonal violence>
+    <Alcohol use disorders>95</Alcohol use disorders>
+    <Drug use disorders>200</Drug use disorders>
+    <Self-harm>435</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Israel</Country Name>
+    <Interpersonal violence>184</Interpersonal violence>
+    <Alcohol use disorders>65</Alcohol use disorders>
+    <Drug use disorders>63</Drug use disorders>
+    <Self-harm>545</Self-harm>
+    <Conflict and terrorism>6</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Italy</Country Name>
+    <Interpersonal violence>488</Interpersonal violence>
+    <Alcohol use disorders>351</Alcohol use disorders>
+    <Drug use disorders>563</Drug use disorders>
+    <Self-harm>4315</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Jamaica</Country Name>
+    <Interpersonal violence>420</Interpersonal violence>
+    <Alcohol use disorders>9</Alcohol use disorders>
+    <Drug use disorders>6</Drug use disorders>
+    <Self-harm>89</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Japan</Country Name>
+    <Interpersonal violence>716</Interpersonal violence>
+    <Alcohol use disorders>670</Alcohol use disorders>
+    <Drug use disorders>490</Drug use disorders>
+    <Self-harm>24773</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Jordan</Country Name>
+    <Interpersonal violence>352</Interpersonal violence>
+    <Alcohol use disorders>17</Alcohol use disorders>
+    <Drug use disorders>17</Drug use disorders>
+    <Self-harm>260</Self-harm>
+    <Conflict and terrorism>4</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Kazakhstan</Country Name>
+    <Interpersonal violence>1752</Interpersonal violence>
+    <Alcohol use disorders>1701</Alcohol use disorders>
+    <Drug use disorders>749</Drug use disorders>
+    <Self-harm>4275</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Kenya</Country Name>
+    <Interpersonal violence>4606</Interpersonal violence>
+    <Alcohol use disorders>340</Alcohol use disorders>
+    <Drug use disorders>92</Drug use disorders>
+    <Self-harm>3155</Self-harm>
+    <Conflict and terrorism>68</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Kuwait</Country Name>
+    <Interpersonal violence>42</Interpersonal violence>
+    <Alcohol use disorders>10</Alcohol use disorders>
+    <Drug use disorders>23</Drug use disorders>
+    <Self-harm>135</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Kyrgyzstan</Country Name>
+    <Interpersonal violence>297</Interpersonal violence>
+    <Alcohol use disorders>403</Alcohol use disorders>
+    <Drug use disorders>63</Drug use disorders>
+    <Self-harm>600</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Laos</Country Name>
+    <Interpersonal violence>560</Interpersonal violence>
+    <Alcohol use disorders>70</Alcohol use disorders>
+    <Drug use disorders>17</Drug use disorders>
+    <Self-harm>430</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Latvia</Country Name>
+    <Interpersonal violence>136</Interpersonal violence>
+    <Alcohol use disorders>285</Alcohol use disorders>
+    <Drug use disorders>51</Drug use disorders>
+    <Self-harm>392</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Lebanon</Country Name>
+    <Interpersonal violence>216</Interpersonal violence>
+    <Alcohol use disorders>15</Alcohol use disorders>
+    <Drug use disorders>127</Drug use disorders>
+    <Self-harm>176</Self-harm>
+    <Conflict and terrorism>14</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Liberia</Country Name>
+    <Interpersonal violence>127</Interpersonal violence>
+    <Alcohol use disorders>32</Alcohol use disorders>
+    <Drug use disorders>7</Drug use disorders>
+    <Self-harm>259</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Libya</Country Name>
+    <Interpersonal violence>130</Interpersonal violence>
+    <Alcohol use disorders>24</Alcohol use disorders>
+    <Drug use disorders>202</Drug use disorders>
+    <Self-harm>347</Self-harm>
+    <Conflict and terrorism>1039</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Lithuania</Country Name>
+    <Interpersonal violence>150</Interpersonal violence>
+    <Alcohol use disorders>317</Alcohol use disorders>
+    <Drug use disorders>169</Drug use disorders>
+    <Self-harm>857</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Luxembourg</Country Name>
+    <Interpersonal violence>7</Interpersonal violence>
+    <Alcohol use disorders>28</Alcohol use disorders>
+    <Drug use disorders>15</Drug use disorders>
+    <Self-harm>69</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Madagascar</Country Name>
+    <Interpersonal violence>517</Interpersonal violence>
+    <Alcohol use disorders>159</Alcohol use disorders>
+    <Drug use disorders>49</Drug use disorders>
+    <Self-harm>1522</Self-harm>
+    <Conflict and terrorism>139</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Malawi</Country Name>
+    <Interpersonal violence>333</Interpersonal violence>
+    <Alcohol use disorders>126</Alcohol use disorders>
+    <Drug use disorders>39</Drug use disorders>
+    <Self-harm>1209</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Malaysia</Country Name>
+    <Interpersonal violence>577</Interpersonal violence>
+    <Alcohol use disorders>176</Alcohol use disorders>
+    <Drug use disorders>138</Drug use disorders>
+    <Self-harm>1803</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Maldives</Country Name>
+    <Interpersonal violence>10</Interpersonal violence>
+    <Alcohol use disorders>1</Alcohol use disorders>
+    <Drug use disorders>2</Drug use disorders>
+    <Self-harm>20</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Mali</Country Name>
+    <Interpersonal violence>2315</Interpersonal violence>
+    <Alcohol use disorders>100</Alcohol use disorders>
+    <Drug use disorders>19</Drug use disorders>
+    <Self-harm>947</Self-harm>
+    <Conflict and terrorism>1170</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Malta</Country Name>
+    <Interpersonal violence>5</Interpersonal violence>
+    <Alcohol use disorders>3</Alcohol use disorders>
+    <Drug use disorders>9</Drug use disorders>
+    <Self-harm>24</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Mauritania</Country Name>
+    <Interpersonal violence>200</Interpersonal violence>
+    <Alcohol use disorders>18</Alcohol use disorders>
+    <Drug use disorders>5</Drug use disorders>
+    <Self-harm>155</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Mauritius</Country Name>
+    <Interpersonal violence>32</Interpersonal violence>
+    <Alcohol use disorders>76</Alcohol use disorders>
+    <Drug use disorders>14</Drug use disorders>
+    <Self-harm>113</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Mexico</Country Name>
+    <Interpersonal violence>30673</Interpersonal violence>
+    <Alcohol use disorders>4518</Alcohol use disorders>
+    <Drug use disorders>596</Drug use disorders>
+    <Self-harm>7805</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Micronesia </Country Name>
+    <Interpersonal violence>9</Interpersonal violence>
+    <Alcohol use disorders>2</Alcohol use disorders>
+    <Drug use disorders>1</Drug use disorders>
+    <Self-harm>23</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Moldova</Country Name>
+    <Interpersonal violence>208</Interpersonal violence>
+    <Alcohol use disorders>439</Alcohol use disorders>
+    <Drug use disorders>28</Drug use disorders>
+    <Self-harm>549</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Monaco</Country Name>
+    <Interpersonal violence>0</Interpersonal violence>
+    <Alcohol use disorders>0</Alcohol use disorders>
+    <Drug use disorders>0</Drug use disorders>
+    <Self-harm>5</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Mongolia</Country Name>
+    <Interpersonal violence>288</Interpersonal violence>
+    <Alcohol use disorders>584</Alcohol use disorders>
+    <Drug use disorders>20</Drug use disorders>
+    <Self-harm>592</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Montenegro</Country Name>
+    <Interpersonal violence>21</Interpersonal violence>
+    <Alcohol use disorders>8</Alcohol use disorders>
+    <Drug use disorders>1</Drug use disorders>
+    <Self-harm>117</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Morocco</Country Name>
+    <Interpersonal violence>350</Interpersonal violence>
+    <Alcohol use disorders>111</Alcohol use disorders>
+    <Drug use disorders>407</Drug use disorders>
+    <Self-harm>2566</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Mozambique</Country Name>
+    <Interpersonal violence>1811</Interpersonal violence>
+    <Alcohol use disorders>258</Alcohol use disorders>
+    <Drug use disorders>135</Drug use disorders>
+    <Self-harm>2440</Self-harm>
+    <Conflict and terrorism>159</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Myanmar</Country Name>
+    <Interpersonal violence>704</Interpersonal violence>
+    <Alcohol use disorders>388</Alcohol use disorders>
+    <Drug use disorders>214</Drug use disorders>
+    <Self-harm>1956</Self-harm>
+    <Conflict and terrorism>617</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Namibia</Country Name>
+    <Interpersonal violence>438</Interpersonal violence>
+    <Alcohol use disorders>28</Alcohol use disorders>
+    <Drug use disorders>6</Drug use disorders>
+    <Self-harm>261</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Nauru</Country Name>
+    <Interpersonal violence>1</Interpersonal violence>
+    <Alcohol use disorders>0</Alcohol use disorders>
+    <Drug use disorders>0</Drug use disorders>
+    <Self-harm>2</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Nepal</Country Name>
+    <Interpersonal violence>535</Interpersonal violence>
+    <Alcohol use disorders>227</Alcohol use disorders>
+    <Drug use disorders>36</Drug use disorders>
+    <Self-harm>3528</Self-harm>
+    <Conflict and terrorism>21</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Netherlands</Country Name>
+    <Interpersonal violence>144</Interpersonal violence>
+    <Alcohol use disorders>480</Alcohol use disorders>
+    <Drug use disorders>176</Drug use disorders>
+    <Self-harm>2017</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>New Zealand</Country Name>
+    <Interpersonal violence>58</Interpersonal violence>
+    <Alcohol use disorders>57</Alcohol use disorders>
+    <Drug use disorders>65</Drug use disorders>
+    <Self-harm>512</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Nicaragua</Country Name>
+    <Interpersonal violence>395</Interpersonal violence>
+    <Alcohol use disorders>387</Alcohol use disorders>
+    <Drug use disorders>12</Drug use disorders>
+    <Self-harm>355</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Niger</Country Name>
+    <Interpersonal violence>1962</Interpersonal violence>
+    <Alcohol use disorders>101</Alcohol use disorders>
+    <Drug use disorders>14</Drug use disorders>
+    <Self-harm>972</Self-harm>
+    <Conflict and terrorism>395</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Nigeria</Country Name>
+    <Interpersonal violence>12958</Interpersonal violence>
+    <Alcohol use disorders>1221</Alcohol use disorders>
+    <Drug use disorders>274</Drug use disorders>
+    <Self-harm>7970</Self-harm>
+    <Conflict and terrorism>3086</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Niue</Country Name>
+    <Interpersonal violence>0</Interpersonal violence>
+    <Alcohol use disorders>0</Alcohol use disorders>
+    <Drug use disorders>0</Drug use disorders>
+    <Self-harm>0</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>North Korea</Country Name>
+    <Interpersonal violence>827</Interpersonal violence>
+    <Alcohol use disorders>384</Alcohol use disorders>
+    <Drug use disorders>338</Drug use disorders>
+    <Self-harm>2954</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>North Macedonia</Country Name>
+    <Interpersonal violence>44</Interpersonal violence>
+    <Alcohol use disorders>27</Alcohol use disorders>
+    <Drug use disorders>13</Drug use disorders>
+    <Self-harm>211</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Northern Ireland</Country Name>
+    <Interpersonal violence>13</Interpersonal violence>
+    <Alcohol use disorders>65</Alcohol use disorders>
+    <Drug use disorders>61</Drug use disorders>
+    <Self-harm>201</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Norway</Country Name>
+    <Interpersonal violence>32</Interpersonal violence>
+    <Alcohol use disorders>241</Alcohol use disorders>
+    <Drug use disorders>239</Drug use disorders>
+    <Self-harm>562</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Oman</Country Name>
+    <Interpersonal violence>30</Interpersonal violence>
+    <Alcohol use disorders>8</Alcohol use disorders>
+    <Drug use disorders>17</Drug use disorders>
+    <Self-harm>118</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Pakistan</Country Name>
+    <Interpersonal violence>13446</Interpersonal violence>
+    <Alcohol use disorders>2142</Alcohol use disorders>
+    <Drug use disorders>867</Drug use disorders>
+    <Self-harm>17688</Self-harm>
+    <Conflict and terrorism>500</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Palau</Country Name>
+    <Interpersonal violence>2</Interpersonal violence>
+    <Alcohol use disorders>0</Alcohol use disorders>
+    <Drug use disorders>0</Drug use disorders>
+    <Self-harm>3</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Palestine</Country Name>
+    <Interpersonal violence>307</Interpersonal violence>
+    <Alcohol use disorders>7</Alcohol use disorders>
+    <Drug use disorders>8</Drug use disorders>
+    <Self-harm>124</Self-harm>
+    <Conflict and terrorism>60</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Panama</Country Name>
+    <Interpersonal violence>625</Interpersonal violence>
+    <Alcohol use disorders>32</Alcohol use disorders>
+    <Drug use disorders>19</Drug use disorders>
+    <Self-harm>199</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Papua New Guinea</Country Name>
+    <Interpersonal violence>983</Interpersonal violence>
+    <Alcohol use disorders>99</Alcohol use disorders>
+    <Drug use disorders>25</Drug use disorders>
+    <Self-harm>289</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Paraguay</Country Name>
+    <Interpersonal violence>823</Interpersonal violence>
+    <Alcohol use disorders>318</Alcohol use disorders>
+    <Drug use disorders>15</Drug use disorders>
+    <Self-harm>427</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Peru</Country Name>
+    <Interpersonal violence>1142</Interpersonal violence>
+    <Alcohol use disorders>342</Alcohol use disorders>
+    <Drug use disorders>166</Drug use disorders>
+    <Self-harm>1016</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Philippines</Country Name>
+    <Interpersonal violence>15570</Interpersonal violence>
+    <Alcohol use disorders>1105</Alcohol use disorders>
+    <Drug use disorders>325</Drug use disorders>
+    <Self-harm>4569</Self-harm>
+    <Conflict and terrorism>419</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Poland</Country Name>
+    <Interpersonal violence>617</Interpersonal violence>
+    <Alcohol use disorders>4380</Alcohol use disorders>
+    <Drug use disorders>211</Drug use disorders>
+    <Self-harm>6578</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Portugal</Country Name>
+    <Interpersonal violence>166</Interpersonal violence>
+    <Alcohol use disorders>182</Alcohol use disorders>
+    <Drug use disorders>51</Drug use disorders>
+    <Self-harm>1357</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Puerto Rico</Country Name>
+    <Interpersonal violence>696</Interpersonal violence>
+    <Alcohol use disorders>141</Alcohol use disorders>
+    <Drug use disorders>55</Drug use disorders>
+    <Self-harm>249</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Qatar</Country Name>
+    <Interpersonal violence>27</Interpersonal violence>
+    <Alcohol use disorders>6</Alcohol use disorders>
+    <Drug use disorders>8</Drug use disorders>
+    <Self-harm>131</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Romania</Country Name>
+    <Interpersonal violence>380</Interpersonal violence>
+    <Alcohol use disorders>545</Alcohol use disorders>
+    <Drug use disorders>149</Drug use disorders>
+    <Self-harm>2182</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Russia</Country Name>
+    <Interpersonal violence>22285</Interpersonal violence>
+    <Alcohol use disorders>28460</Alcohol use disorders>
+    <Drug use disorders>5877</Drug use disorders>
+    <Self-harm>39040</Self-harm>
+    <Conflict and terrorism>20</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Rwanda</Country Name>
+    <Interpersonal violence>461</Interpersonal violence>
+    <Alcohol use disorders>123</Alcohol use disorders>
+    <Drug use disorders>19</Drug use disorders>
+    <Self-harm>759</Self-harm>
+    <Conflict and terrorism>1</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Saint Kitts and Nevis</Country Name>
+    <Interpersonal violence>10</Interpersonal violence>
+    <Alcohol use disorders>11</Alcohol use disorders>
+    <Drug use disorders>0</Drug use disorders>
+    <Self-harm>2</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Saint Lucia</Country Name>
+    <Interpersonal violence>32</Interpersonal violence>
+    <Alcohol use disorders>9</Alcohol use disorders>
+    <Drug use disorders>1</Drug use disorders>
+    <Self-harm>13</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Saint Vincent and the Grenadines</Country Name>
+    <Interpersonal violence>23</Interpersonal violence>
+    <Alcohol use disorders>8</Alcohol use disorders>
+    <Drug use disorders>0</Drug use disorders>
+    <Self-harm>8</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Samoa</Country Name>
+    <Interpersonal violence>12</Interpersonal violence>
+    <Alcohol use disorders>2</Alcohol use disorders>
+    <Drug use disorders>1</Drug use disorders>
+    <Self-harm>25</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>San Marino</Country Name>
+    <Interpersonal violence>0</Interpersonal violence>
+    <Alcohol use disorders>0</Alcohol use disorders>
+    <Drug use disorders>0</Drug use disorders>
+    <Self-harm>4</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Saudi Arabia</Country Name>
+    <Interpersonal violence>403</Interpersonal violence>
+    <Alcohol use disorders>104</Alcohol use disorders>
+    <Drug use disorders>201</Drug use disorders>
+    <Self-harm>1791</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Scotland</Country Name>
+    <Interpersonal violence>48</Interpersonal violence>
+    <Alcohol use disorders>270</Alcohol use disorders>
+    <Drug use disorders>506</Drug use disorders>
+    <Self-harm>671</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Senegal</Country Name>
+    <Interpersonal violence>187</Interpersonal violence>
+    <Alcohol use disorders>89</Alcohol use disorders>
+    <Drug use disorders>20</Drug use disorders>
+    <Self-harm>1126</Self-harm>
+    <Conflict and terrorism>2</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Serbia</Country Name>
+    <Interpersonal violence>203</Interpersonal violence>
+    <Alcohol use disorders>376</Alcohol use disorders>
+    <Drug use disorders>72</Drug use disorders>
+    <Self-harm>1535</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Singapore</Country Name>
+    <Interpersonal violence>25</Interpersonal violence>
+    <Alcohol use disorders>13</Alcohol use disorders>
+    <Drug use disorders>16</Drug use disorders>
+    <Self-harm>464</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Slovakia</Country Name>
+    <Interpersonal violence>118</Interpersonal violence>
+    <Alcohol use disorders>218</Alcohol use disorders>
+    <Drug use disorders>18</Drug use disorders>
+    <Self-harm>695</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Slovenia</Country Name>
+    <Interpersonal violence>19</Interpersonal violence>
+    <Alcohol use disorders>209</Alcohol use disorders>
+    <Drug use disorders>28</Drug use disorders>
+    <Self-harm>410</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Solomon Islands</Country Name>
+    <Interpersonal violence>34</Interpersonal violence>
+    <Alcohol use disorders>13</Alcohol use disorders>
+    <Drug use disorders>4</Drug use disorders>
+    <Self-harm>144</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Somalia</Country Name>
+    <Interpersonal violence>2578</Interpersonal violence>
+    <Alcohol use disorders>143</Alcohol use disorders>
+    <Drug use disorders>23</Drug use disorders>
+    <Self-harm>1325</Self-harm>
+    <Conflict and terrorism>1686</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>South Africa</Country Name>
+    <Interpersonal violence>19122</Interpersonal violence>
+    <Alcohol use disorders>582</Alcohol use disorders>
+    <Drug use disorders>115</Drug use disorders>
+    <Self-harm>7864</Self-harm>
+    <Conflict and terrorism>38</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>South Korea</Country Name>
+    <Interpersonal violence>746</Interpersonal violence>
+    <Alcohol use disorders>997</Alcohol use disorders>
+    <Drug use disorders>119</Drug use disorders>
+    <Self-harm>14575</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>South Sudan</Country Name>
+    <Interpersonal violence>874</Interpersonal violence>
+    <Alcohol use disorders>54</Alcohol use disorders>
+    <Drug use disorders>10</Drug use disorders>
+    <Self-harm>419</Self-harm>
+    <Conflict and terrorism>470</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Spain</Country Name>
+    <Interpersonal violence>335</Interpersonal violence>
+    <Alcohol use disorders>429</Alcohol use disorders>
+    <Drug use disorders>728</Drug use disorders>
+    <Self-harm>3759</Self-harm>
+    <Conflict and terrorism>1</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Sri Lanka</Country Name>
+    <Interpersonal violence>768</Interpersonal violence>
+    <Alcohol use disorders>398</Alcohol use disorders>
+    <Drug use disorders>134</Drug use disorders>
+    <Self-harm>4425</Self-harm>
+    <Conflict and terrorism>282</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Sudan</Country Name>
+    <Interpersonal violence>626</Interpersonal violence>
+    <Alcohol use disorders>100</Alcohol use disorders>
+    <Drug use disorders>380</Drug use disorders>
+    <Self-harm>2029</Self-harm>
+    <Conflict and terrorism>101</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Suriname</Country Name>
+    <Interpersonal violence>49</Interpersonal violence>
+    <Alcohol use disorders>16</Alcohol use disorders>
+    <Drug use disorders>3</Drug use disorders>
+    <Self-harm>145</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Sweden</Country Name>
+    <Interpersonal violence>120</Interpersonal violence>
+    <Alcohol use disorders>364</Alcohol use disorders>
+    <Drug use disorders>485</Drug use disorders>
+    <Self-harm>1369</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Switzerland</Country Name>
+    <Interpersonal violence>54</Interpersonal violence>
+    <Alcohol use disorders>277</Alcohol use disorders>
+    <Drug use disorders>212</Drug use disorders>
+    <Self-harm>1171</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Syria</Country Name>
+    <Interpersonal violence>300</Interpersonal violence>
+    <Alcohol use disorders>61</Alcohol use disorders>
+    <Drug use disorders>153</Drug use disorders>
+    <Self-harm>320</Self-harm>
+    <Conflict and terrorism>6900</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Taiwan</Country Name>
+    <Interpersonal violence>343</Interpersonal violence>
+    <Alcohol use disorders>415</Alcohol use disorders>
+    <Drug use disorders>518</Drug use disorders>
+    <Self-harm>4299</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Tajikistan</Country Name>
+    <Interpersonal violence>234</Interpersonal violence>
+    <Alcohol use disorders>147</Alcohol use disorders>
+    <Drug use disorders>24</Drug use disorders>
+    <Self-harm>464</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Tanzania</Country Name>
+    <Interpersonal violence>3462</Interpersonal violence>
+    <Alcohol use disorders>350</Alcohol use disorders>
+    <Drug use disorders>193</Drug use disorders>
+    <Self-harm>3231</Self-harm>
+    <Conflict and terrorism>19</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Thailand</Country Name>
+    <Interpersonal violence>4035</Interpersonal violence>
+    <Alcohol use disorders>634</Alcohol use disorders>
+    <Drug use disorders>486</Drug use disorders>
+    <Self-harm>7107</Self-harm>
+    <Conflict and terrorism>60</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Timor</Country Name>
+    <Interpersonal violence>37</Interpersonal violence>
+    <Alcohol use disorders>7</Alcohol use disorders>
+    <Drug use disorders>2</Drug use disorders>
+    <Self-harm>63</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Togo</Country Name>
+    <Interpersonal violence>559</Interpersonal violence>
+    <Alcohol use disorders>53</Alcohol use disorders>
+    <Drug use disorders>18</Drug use disorders>
+    <Self-harm>591</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Tonga</Country Name>
+    <Interpersonal violence>2</Interpersonal violence>
+    <Alcohol use disorders>1</Alcohol use disorders>
+    <Drug use disorders>0</Drug use disorders>
+    <Self-harm>5</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Trinidad and Tobago</Country Name>
+    <Interpersonal violence>316</Interpersonal violence>
+    <Alcohol use disorders>32</Alcohol use disorders>
+    <Drug use disorders>10</Drug use disorders>
+    <Self-harm>155</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Tunisia</Country Name>
+    <Interpersonal violence>78</Interpersonal violence>
+    <Alcohol use disorders>34</Alcohol use disorders>
+    <Drug use disorders>158</Drug use disorders>
+    <Self-harm>410</Self-harm>
+    <Conflict and terrorism>15</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Turkey</Country Name>
+    <Interpersonal violence>1605</Interpersonal violence>
+    <Alcohol use disorders>240</Alcohol use disorders>
+    <Drug use disorders>345</Drug use disorders>
+    <Self-harm>2585</Self-harm>
+    <Conflict and terrorism>309</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Turkmenistan</Country Name>
+    <Interpersonal violence>214</Interpersonal violence>
+    <Alcohol use disorders>180</Alcohol use disorders>
+    <Drug use disorders>66</Drug use disorders>
+    <Self-harm>440</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Tuvalu</Country Name>
+    <Interpersonal violence>1</Interpersonal violence>
+    <Alcohol use disorders>0</Alcohol use disorders>
+    <Drug use disorders>0</Drug use disorders>
+    <Self-harm>2</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Uganda</Country Name>
+    <Interpersonal violence>2378</Interpersonal violence>
+    <Alcohol use disorders>261</Alcohol use disorders>
+    <Drug use disorders>46</Drug use disorders>
+    <Self-harm>2167</Self-harm>
+    <Conflict and terrorism>61</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Ukraine</Country Name>
+    <Interpersonal violence>5279</Interpersonal violence>
+    <Alcohol use disorders>7716</Alcohol use disorders>
+    <Drug use disorders>1477</Drug use disorders>
+    <Self-harm>13690</Self-harm>
+    <Conflict and terrorism>227</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>United Arab Emirates</Country Name>
+    <Interpersonal violence>87</Interpersonal violence>
+    <Alcohol use disorders>76</Alcohol use disorders>
+    <Drug use disorders>805</Drug use disorders>
+    <Self-harm>664</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>United Kingdom</Country Name>
+    <Interpersonal violence>339</Interpersonal violence>
+    <Alcohol use disorders>1762</Alcohol use disorders>
+    <Drug use disorders>2654</Drug use disorders>
+    <Self-harm>5618</Self-harm>
+    <Conflict and terrorism>2</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>United States</Country Name>
+    <Interpersonal violence>17709</Interpersonal violence>
+    <Alcohol use disorders>14044</Alcohol use disorders>
+    <Drug use disorders>65717</Drug use disorders>
+    <Self-harm>45349</Self-harm>
+    <Conflict and terrorism>31</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Uruguay</Country Name>
+    <Interpersonal violence>212</Interpersonal violence>
+    <Alcohol use disorders>111</Alcohol use disorders>
+    <Drug use disorders>15</Drug use disorders>
+    <Self-harm>666</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Uzbekistan</Country Name>
+    <Interpersonal violence>974</Interpersonal violence>
+    <Alcohol use disorders>156</Alcohol use disorders>
+    <Drug use disorders>188</Drug use disorders>
+    <Self-harm>3793</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Venezuela</Country Name>
+    <Interpersonal violence>10944</Interpersonal violence>
+    <Alcohol use disorders>188</Alcohol use disorders>
+    <Drug use disorders>90</Drug use disorders>
+    <Self-harm>2310</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Vietnam</Country Name>
+    <Interpersonal violence>1267</Interpersonal violence>
+    <Alcohol use disorders>1000</Alcohol use disorders>
+    <Drug use disorders>1176</Drug use disorders>
+    <Self-harm>8114</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Wales</Country Name>
+    <Interpersonal violence>18</Interpersonal violence>
+    <Alcohol use disorders>90</Alcohol use disorders>
+    <Drug use disorders>173</Drug use disorders>
+    <Self-harm>310</Self-harm>
+    <Conflict and terrorism>0</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Yemen</Country Name>
+    <Interpersonal violence>820</Interpersonal violence>
+    <Alcohol use disorders>82</Alcohol use disorders>
+    <Drug use disorders>261</Drug use disorders>
+    <Self-harm>1560</Self-harm>
+    <Conflict and terrorism>13402</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Zambia</Country Name>
+    <Interpersonal violence>1616</Interpersonal violence>
+    <Alcohol use disorders>137</Alcohol use disorders>
+    <Drug use disorders>60</Drug use disorders>
+    <Self-harm>1398</Self-harm>
+    <Conflict and terrorism>1</Conflict and terrorism>
+  </row>
+  <row>
+    <Country Name>Zimbabwe</Country Name>
+    <Interpersonal violence>1434</Interpersonal violence>
+    <Alcohol use disorders>53</Alcohol use disorders>
+    <Drug use disorders>127</Drug use disorders>
+    <Self-harm>2403</Self-harm>
+    <Conflict and terrorism>11</Conflict and terrorism>
+  </row>
+</root>

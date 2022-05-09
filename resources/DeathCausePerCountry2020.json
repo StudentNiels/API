@@ -1,0 +1,1530 @@
+[
+ {
+   "Country Name": "Afghanistan",
+   "Interpersonal violence": 5015,
+   "Alcohol use disorders": 147,
+   "Drug use disorders": 406,
+   "Self-harm": 1613,
+   "Conflict and terrorism": 24295
+ },
+ {
+   "Country Name": "Albania",
+   "Interpersonal violence": 57,
+   "Alcohol use disorders": 18,
+   "Drug use disorders": 29,
+   "Self-harm": 152,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Algeria",
+   "Interpersonal violence": 459,
+   "Alcohol use disorders": 111,
+   "Drug use disorders": 526,
+   "Self-harm": 1515,
+   "Conflict and terrorism": 13
+ },
+ {
+   "Country Name": "Andorra",
+   "Interpersonal violence": 0,
+   "Alcohol use disorders": 1,
+   "Drug use disorders": 0,
+   "Self-harm": 8,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Angola",
+   "Interpersonal violence": 974,
+   "Alcohol use disorders": 211,
+   "Drug use disorders": 80,
+   "Self-harm": 1928,
+   "Conflict and terrorism": 16
+ },
+ {
+   "Country Name": "Antigua and Barbuda",
+   "Interpersonal violence": 5,
+   "Alcohol use disorders": 7,
+   "Drug use disorders": 0,
+   "Self-harm": 3,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Argentina",
+   "Interpersonal violence": 2881,
+   "Alcohol use disorders": 821,
+   "Drug use disorders": 86,
+   "Self-harm": 5029,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Armenia",
+   "Interpersonal violence": 153,
+   "Alcohol use disorders": 69,
+   "Drug use disorders": 10,
+   "Self-harm": 287,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Australia",
+   "Interpersonal violence": 322,
+   "Alcohol use disorders": 590,
+   "Drug use disorders": 1128,
+   "Self-harm": 2898,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Austria",
+   "Interpersonal violence": 70,
+   "Alcohol use disorders": 517,
+   "Drug use disorders": 140,
+   "Self-harm": 1418,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Azerbaijan",
+   "Interpersonal violence": 372,
+   "Alcohol use disorders": 225,
+   "Drug use disorders": 39,
+   "Self-harm": 379,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Bahamas",
+   "Interpersonal violence": 111,
+   "Alcohol use disorders": 18,
+   "Drug use disorders": 2,
+   "Self-harm": 12,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Bahrain",
+   "Interpersonal violence": 27,
+   "Alcohol use disorders": 6,
+   "Drug use disorders": 3,
+   "Self-harm": 77,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Bangladesh",
+   "Interpersonal violence": 3954,
+   "Alcohol use disorders": 322,
+   "Drug use disorders": 299,
+   "Self-harm": 7365,
+   "Conflict and terrorism": 155
+ },
+ {
+   "Country Name": "Barbados",
+   "Interpersonal violence": 33,
+   "Alcohol use disorders": 8,
+   "Drug use disorders": 1,
+   "Self-harm": 15,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Belarus",
+   "Interpersonal violence": 776,
+   "Alcohol use disorders": 2973,
+   "Drug use disorders": 235,
+   "Self-harm": 2272,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Belgium",
+   "Interpersonal violence": 163,
+   "Alcohol use disorders": 525,
+   "Drug use disorders": 224,
+   "Self-harm": 2212,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Belize",
+   "Interpersonal violence": 114,
+   "Alcohol use disorders": 11,
+   "Drug use disorders": 1,
+   "Self-harm": 28,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Benin",
+   "Interpersonal violence": 898,
+   "Alcohol use disorders": 68,
+   "Drug use disorders": 15,
+   "Self-harm": 742,
+   "Conflict and terrorism": 1
+ },
+ {
+   "Country Name": "Bermuda",
+   "Interpersonal violence": 2,
+   "Alcohol use disorders": 1,
+   "Drug use disorders": 1,
+   "Self-harm": 3,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Bhutan",
+   "Interpersonal violence": 7,
+   "Alcohol use disorders": 7,
+   "Drug use disorders": 2,
+   "Self-harm": 41,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Bolivia",
+   "Interpersonal violence": 615,
+   "Alcohol use disorders": 368,
+   "Drug use disorders": 56,
+   "Self-harm": 743,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Bosnia and Herzegovina",
+   "Interpersonal violence": 84,
+   "Alcohol use disorders": 90,
+   "Drug use disorders": 11,
+   "Self-harm": 366,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Botswana",
+   "Interpersonal violence": 469,
+   "Alcohol use disorders": 29,
+   "Drug use disorders": 7,
+   "Self-harm": 403,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Brazil",
+   "Interpersonal violence": 65907,
+   "Alcohol use disorders": 9705,
+   "Drug use disorders": 1127,
+   "Self-harm": 13503,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Brunei",
+   "Interpersonal violence": 6,
+   "Alcohol use disorders": 2,
+   "Drug use disorders": 2,
+   "Self-harm": 25,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Bulgaria",
+   "Interpersonal violence": 182,
+   "Alcohol use disorders": 101,
+   "Drug use disorders": 69,
+   "Self-harm": 1087,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Burkina Faso",
+   "Interpersonal violence": 2139,
+   "Alcohol use disorders": 156,
+   "Drug use disorders": 58,
+   "Self-harm": 1545,
+   "Conflict and terrorism": 707
+ },
+ {
+   "Country Name": "Burundi",
+   "Interpersonal violence": 126,
+   "Alcohol use disorders": 86,
+   "Drug use disorders": 16,
+   "Self-harm": 800,
+   "Conflict and terrorism": 80
+ },
+ {
+   "Country Name": "Cambodia",
+   "Interpersonal violence": 495,
+   "Alcohol use disorders": 133,
+   "Drug use disorders": 37,
+   "Self-harm": 785,
+   "Conflict and terrorism": 2
+ },
+ {
+   "Country Name": "Cameroon",
+   "Interpersonal violence": 916,
+   "Alcohol use disorders": 187,
+   "Drug use disorders": 79,
+   "Self-harm": 2260,
+   "Conflict and terrorism": 626
+ },
+ {
+   "Country Name": "Canada",
+   "Interpersonal violence": 552,
+   "Alcohol use disorders": 1361,
+   "Drug use disorders": 2526,
+   "Self-harm": 4699,
+   "Conflict and terrorism": 1
+ },
+ {
+   "Country Name": "Cape Verde",
+   "Interpersonal violence": 81,
+   "Alcohol use disorders": 5,
+   "Drug use disorders": 1,
+   "Self-harm": 82,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Chad",
+   "Interpersonal violence": 1234,
+   "Alcohol use disorders": 88,
+   "Drug use disorders": 14,
+   "Self-harm": 996,
+   "Conflict and terrorism": 276
+ },
+ {
+   "Country Name": "Chile",
+   "Interpersonal violence": 793,
+   "Alcohol use disorders": 531,
+   "Drug use disorders": 71,
+   "Self-harm": 2006,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "China",
+   "Interpersonal violence": 11970,
+   "Alcohol use disorders": 19459,
+   "Drug use disorders": 11445,
+   "Self-harm": 121217,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Colombia",
+   "Interpersonal violence": 17061,
+   "Alcohol use disorders": 124,
+   "Drug use disorders": 127,
+   "Self-harm": 2731,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Comoros",
+   "Interpersonal violence": 67,
+   "Alcohol use disorders": 6,
+   "Drug use disorders": 2,
+   "Self-harm": 41,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Congo",
+   "Interpersonal violence": 245,
+   "Alcohol use disorders": 55,
+   "Drug use disorders": 23,
+   "Self-harm": 423,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Cook Islands",
+   "Interpersonal violence": 0,
+   "Alcohol use disorders": 0,
+   "Drug use disorders": 0,
+   "Self-harm": 2,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Costa Rica",
+   "Interpersonal violence": 503,
+   "Alcohol use disorders": 84,
+   "Drug use disorders": 26,
+   "Self-harm": 389,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Cote d'Ivoire",
+   "Interpersonal violence": 2307,
+   "Alcohol use disorders": 191,
+   "Drug use disorders": 38,
+   "Self-harm": 1960,
+   "Conflict and terrorism": 10
+ },
+ {
+   "Country Name": "Croatia",
+   "Interpersonal violence": 47,
+   "Alcohol use disorders": 268,
+   "Drug use disorders": 70,
+   "Self-harm": 694,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Cuba",
+   "Interpersonal violence": 642,
+   "Alcohol use disorders": 570,
+   "Drug use disorders": 31,
+   "Self-harm": 1736,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Cyprus",
+   "Interpersonal violence": 21,
+   "Alcohol use disorders": 9,
+   "Drug use disorders": 17,
+   "Self-harm": 67,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Czechoslovakia",
+   "Interpersonal violence": 105,
+   "Alcohol use disorders": 445,
+   "Drug use disorders": 136,
+   "Self-harm": 1479,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Democratic Republic of Congo",
+   "Interpersonal violence": 2891,
+   "Alcohol use disorders": 672,
+   "Drug use disorders": 217,
+   "Self-harm": 5980,
+   "Conflict and terrorism": 1630
+ },
+ {
+   "Country Name": "Denmark",
+   "Interpersonal violence": 43,
+   "Alcohol use disorders": 817,
+   "Drug use disorders": 198,
+   "Self-harm": 668,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Djibouti",
+   "Interpersonal violence": 109,
+   "Alcohol use disorders": 12,
+   "Drug use disorders": 3,
+   "Self-harm": 75,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Dominica",
+   "Interpersonal violence": 8,
+   "Alcohol use disorders": 4,
+   "Drug use disorders": 0,
+   "Self-harm": 4,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Dominican Republic",
+   "Interpersonal violence": 1993,
+   "Alcohol use disorders": 151,
+   "Drug use disorders": 53,
+   "Self-harm": 671,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Ecuador",
+   "Interpersonal violence": 1907,
+   "Alcohol use disorders": 349,
+   "Drug use disorders": 67,
+   "Self-harm": 1678,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Egypt",
+   "Interpersonal violence": 512,
+   "Alcohol use disorders": 150,
+   "Drug use disorders": 82,
+   "Self-harm": 3105,
+   "Conflict and terrorism": 682
+ },
+ {
+   "Country Name": "El Salvador",
+   "Interpersonal violence": 3047,
+   "Alcohol use disorders": 874,
+   "Drug use disorders": 11,
+   "Self-harm": 531,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "England",
+   "Interpersonal violence": 260,
+   "Alcohol use disorders": 1337,
+   "Drug use disorders": 1914,
+   "Self-harm": 4436,
+   "Conflict and terrorism": 2
+ },
+ {
+   "Country Name": "Estonia",
+   "Interpersonal violence": 58,
+   "Alcohol use disorders": 214,
+   "Drug use disorders": 128,
+   "Self-harm": 208,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Ethiopia",
+   "Interpersonal violence": 7175,
+   "Alcohol use disorders": 647,
+   "Drug use disorders": 217,
+   "Self-harm": 5655,
+   "Conflict and terrorism": 165
+ },
+ {
+   "Country Name": "Fiji",
+   "Interpersonal violence": 35,
+   "Alcohol use disorders": 2,
+   "Drug use disorders": 3,
+   "Self-harm": 84,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Finland",
+   "Interpersonal violence": 83,
+   "Alcohol use disorders": 565,
+   "Drug use disorders": 291,
+   "Self-harm": 873,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "France",
+   "Interpersonal violence": 538,
+   "Alcohol use disorders": 3748,
+   "Drug use disorders": 1839,
+   "Self-harm": 11014,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Gabon",
+   "Interpersonal violence": 76,
+   "Alcohol use disorders": 19,
+   "Drug use disorders": 10,
+   "Self-harm": 172,
+   "Conflict and terrorism": 2
+ },
+ {
+   "Country Name": "Gambia",
+   "Interpersonal violence": 15,
+   "Alcohol use disorders": 14,
+   "Drug use disorders": 3,
+   "Self-harm": 129,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Georgia",
+   "Interpersonal violence": 125,
+   "Alcohol use disorders": 42,
+   "Drug use disorders": 26,
+   "Self-harm": 313,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Germany",
+   "Interpersonal violence": 617,
+   "Alcohol use disorders": 6379,
+   "Drug use disorders": 1678,
+   "Self-harm": 11664,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Ghana",
+   "Interpersonal violence": 774,
+   "Alcohol use disorders": 231,
+   "Drug use disorders": 58,
+   "Self-harm": 2065,
+   "Conflict and terrorism": 20
+ },
+ {
+   "Country Name": "Greece",
+   "Interpersonal violence": 130,
+   "Alcohol use disorders": 42,
+   "Drug use disorders": 186,
+   "Self-harm": 500,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Greenland",
+   "Interpersonal violence": 5,
+   "Alcohol use disorders": 9,
+   "Drug use disorders": 2,
+   "Self-harm": 34,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Guatemala",
+   "Interpersonal violence": 6293,
+   "Alcohol use disorders": 1769,
+   "Drug use disorders": 218,
+   "Self-harm": 953,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Guinea",
+   "Interpersonal violence": 987,
+   "Alcohol use disorders": 80,
+   "Drug use disorders": 17,
+   "Self-harm": 805,
+   "Conflict and terrorism": 13
+ },
+ {
+   "Country Name": "Guyana",
+   "Interpersonal violence": 179,
+   "Alcohol use disorders": 27,
+   "Drug use disorders": 2,
+   "Self-harm": 250,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Haiti",
+   "Interpersonal violence": 3519,
+   "Alcohol use disorders": 383,
+   "Drug use disorders": 42,
+   "Self-harm": 1017,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Honduras",
+   "Interpersonal violence": 3321,
+   "Alcohol use disorders": 389,
+   "Drug use disorders": 104,
+   "Self-harm": 241,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Hungary",
+   "Interpersonal violence": 144,
+   "Alcohol use disorders": 541,
+   "Drug use disorders": 63,
+   "Self-harm": 1902,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Hong Kong",
+   "Interpersonal violence": 125,
+   "Alcohol use disorders": 42,
+   "Drug use disorders": 26,
+   "Self-harm": 313,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Iceland",
+   "Interpersonal violence": 2,
+   "Alcohol use disorders": 8,
+   "Drug use disorders": 14,
+   "Self-harm": 37,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "India",
+   "Interpersonal violence": 40954,
+   "Alcohol use disorders": 23261,
+   "Drug use disorders": 8465,
+   "Self-harm": 195336,
+   "Conflict and terrorism": 688
+ },
+ {
+   "Country Name": "Indonesia",
+   "Interpersonal violence": 2261,
+   "Alcohol use disorders": 653,
+   "Drug use disorders": 589,
+   "Self-harm": 7658,
+   "Conflict and terrorism": 57
+ },
+ {
+   "Country Name": "Iran",
+   "Interpersonal violence": 2209,
+   "Alcohol use disorders": 250,
+   "Drug use disorders": 2918,
+   "Self-harm": 4172,
+   "Conflict and terrorism": 38
+ },
+ {
+   "Country Name": "Iraq",
+   "Interpersonal violence": 4816,
+   "Alcohol use disorders": 57,
+   "Drug use disorders": 585,
+   "Self-harm": 2075,
+   "Conflict and terrorism": 1779
+ },
+ {
+   "Country Name": "Ireland",
+   "Interpersonal violence": 32,
+   "Alcohol use disorders": 95,
+   "Drug use disorders": 200,
+   "Self-harm": 435,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Israel",
+   "Interpersonal violence": 184,
+   "Alcohol use disorders": 65,
+   "Drug use disorders": 63,
+   "Self-harm": 545,
+   "Conflict and terrorism": 6
+ },
+ {
+   "Country Name": "Italy",
+   "Interpersonal violence": 488,
+   "Alcohol use disorders": 351,
+   "Drug use disorders": 563,
+   "Self-harm": 4315,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Jamaica",
+   "Interpersonal violence": 420,
+   "Alcohol use disorders": 9,
+   "Drug use disorders": 6,
+   "Self-harm": 89,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Japan",
+   "Interpersonal violence": 716,
+   "Alcohol use disorders": 670,
+   "Drug use disorders": 490,
+   "Self-harm": 24773,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Jordan",
+   "Interpersonal violence": 352,
+   "Alcohol use disorders": 17,
+   "Drug use disorders": 17,
+   "Self-harm": 260,
+   "Conflict and terrorism": 4
+ },
+ {
+   "Country Name": "Kazakhstan",
+   "Interpersonal violence": 1752,
+   "Alcohol use disorders": 1701,
+   "Drug use disorders": 749,
+   "Self-harm": 4275,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Kenya",
+   "Interpersonal violence": 4606,
+   "Alcohol use disorders": 340,
+   "Drug use disorders": 92,
+   "Self-harm": 3155,
+   "Conflict and terrorism": 68
+ },
+ {
+   "Country Name": "Kuwait",
+   "Interpersonal violence": 42,
+   "Alcohol use disorders": 10,
+   "Drug use disorders": 23,
+   "Self-harm": 135,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Kyrgyzstan",
+   "Interpersonal violence": 297,
+   "Alcohol use disorders": 403,
+   "Drug use disorders": 63,
+   "Self-harm": 600,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Laos",
+   "Interpersonal violence": 560,
+   "Alcohol use disorders": 70,
+   "Drug use disorders": 17,
+   "Self-harm": 430,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Latvia",
+   "Interpersonal violence": 136,
+   "Alcohol use disorders": 285,
+   "Drug use disorders": 51,
+   "Self-harm": 392,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Lebanon",
+   "Interpersonal violence": 216,
+   "Alcohol use disorders": 15,
+   "Drug use disorders": 127,
+   "Self-harm": 176,
+   "Conflict and terrorism": 14
+ },
+ {
+   "Country Name": "Liberia",
+   "Interpersonal violence": 127,
+   "Alcohol use disorders": 32,
+   "Drug use disorders": 7,
+   "Self-harm": 259,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Libya",
+   "Interpersonal violence": 130,
+   "Alcohol use disorders": 24,
+   "Drug use disorders": 202,
+   "Self-harm": 347,
+   "Conflict and terrorism": 1039
+ },
+ {
+   "Country Name": "Lithuania",
+   "Interpersonal violence": 150,
+   "Alcohol use disorders": 317,
+   "Drug use disorders": 169,
+   "Self-harm": 857,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Luxembourg",
+   "Interpersonal violence": 7,
+   "Alcohol use disorders": 28,
+   "Drug use disorders": 15,
+   "Self-harm": 69,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Madagascar",
+   "Interpersonal violence": 517,
+   "Alcohol use disorders": 159,
+   "Drug use disorders": 49,
+   "Self-harm": 1522,
+   "Conflict and terrorism": 139
+ },
+ {
+   "Country Name": "Malawi",
+   "Interpersonal violence": 333,
+   "Alcohol use disorders": 126,
+   "Drug use disorders": 39,
+   "Self-harm": 1209,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Malaysia",
+   "Interpersonal violence": 577,
+   "Alcohol use disorders": 176,
+   "Drug use disorders": 138,
+   "Self-harm": 1803,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Maldives",
+   "Interpersonal violence": 10,
+   "Alcohol use disorders": 1,
+   "Drug use disorders": 2,
+   "Self-harm": 20,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Mali",
+   "Interpersonal violence": 2315,
+   "Alcohol use disorders": 100,
+   "Drug use disorders": 19,
+   "Self-harm": 947,
+   "Conflict and terrorism": 1170
+ },
+ {
+   "Country Name": "Malta",
+   "Interpersonal violence": 5,
+   "Alcohol use disorders": 3,
+   "Drug use disorders": 9,
+   "Self-harm": 24,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Mauritania",
+   "Interpersonal violence": 200,
+   "Alcohol use disorders": 18,
+   "Drug use disorders": 5,
+   "Self-harm": 155,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Mauritius",
+   "Interpersonal violence": 32,
+   "Alcohol use disorders": 76,
+   "Drug use disorders": 14,
+   "Self-harm": 113,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Mexico",
+   "Interpersonal violence": 30673,
+   "Alcohol use disorders": 4518,
+   "Drug use disorders": 596,
+   "Self-harm": 7805,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Micronesia ",
+   "Interpersonal violence": 9,
+   "Alcohol use disorders": 2,
+   "Drug use disorders": 1,
+   "Self-harm": 23,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Moldova",
+   "Interpersonal violence": 208,
+   "Alcohol use disorders": 439,
+   "Drug use disorders": 28,
+   "Self-harm": 549,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Monaco",
+   "Interpersonal violence": 0,
+   "Alcohol use disorders": 0,
+   "Drug use disorders": 0,
+   "Self-harm": 5,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Mongolia",
+   "Interpersonal violence": 288,
+   "Alcohol use disorders": 584,
+   "Drug use disorders": 20,
+   "Self-harm": 592,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Montenegro",
+   "Interpersonal violence": 21,
+   "Alcohol use disorders": 8,
+   "Drug use disorders": 1,
+   "Self-harm": 117,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Morocco",
+   "Interpersonal violence": 350,
+   "Alcohol use disorders": 111,
+   "Drug use disorders": 407,
+   "Self-harm": 2566,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Mozambique",
+   "Interpersonal violence": 1811,
+   "Alcohol use disorders": 258,
+   "Drug use disorders": 135,
+   "Self-harm": 2440,
+   "Conflict and terrorism": 159
+ },
+ {
+   "Country Name": "Myanmar",
+   "Interpersonal violence": 704,
+   "Alcohol use disorders": 388,
+   "Drug use disorders": 214,
+   "Self-harm": 1956,
+   "Conflict and terrorism": 617
+ },
+ {
+   "Country Name": "Namibia",
+   "Interpersonal violence": 438,
+   "Alcohol use disorders": 28,
+   "Drug use disorders": 6,
+   "Self-harm": 261,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Nauru",
+   "Interpersonal violence": 1,
+   "Alcohol use disorders": 0,
+   "Drug use disorders": 0,
+   "Self-harm": 2,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Nepal",
+   "Interpersonal violence": 535,
+   "Alcohol use disorders": 227,
+   "Drug use disorders": 36,
+   "Self-harm": 3528,
+   "Conflict and terrorism": 21
+ },
+ {
+   "Country Name": "Netherlands",
+   "Interpersonal violence": 144,
+   "Alcohol use disorders": 480,
+   "Drug use disorders": 176,
+   "Self-harm": 2017,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "New Zealand",
+   "Interpersonal violence": 58,
+   "Alcohol use disorders": 57,
+   "Drug use disorders": 65,
+   "Self-harm": 512,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Nicaragua",
+   "Interpersonal violence": 395,
+   "Alcohol use disorders": 387,
+   "Drug use disorders": 12,
+   "Self-harm": 355,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Niger",
+   "Interpersonal violence": 1962,
+   "Alcohol use disorders": 101,
+   "Drug use disorders": 14,
+   "Self-harm": 972,
+   "Conflict and terrorism": 395
+ },
+ {
+   "Country Name": "Nigeria",
+   "Interpersonal violence": 12958,
+   "Alcohol use disorders": 1221,
+   "Drug use disorders": 274,
+   "Self-harm": 7970,
+   "Conflict and terrorism": 3086
+ },
+ {
+   "Country Name": "Niue",
+   "Interpersonal violence": 0,
+   "Alcohol use disorders": 0,
+   "Drug use disorders": 0,
+   "Self-harm": 0,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "North Korea",
+   "Interpersonal violence": 827,
+   "Alcohol use disorders": 384,
+   "Drug use disorders": 338,
+   "Self-harm": 2954,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "North Macedonia",
+   "Interpersonal violence": 44,
+   "Alcohol use disorders": 27,
+   "Drug use disorders": 13,
+   "Self-harm": 211,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Northern Ireland",
+   "Interpersonal violence": 13,
+   "Alcohol use disorders": 65,
+   "Drug use disorders": 61,
+   "Self-harm": 201,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Norway",
+   "Interpersonal violence": 32,
+   "Alcohol use disorders": 241,
+   "Drug use disorders": 239,
+   "Self-harm": 562,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Oman",
+   "Interpersonal violence": 30,
+   "Alcohol use disorders": 8,
+   "Drug use disorders": 17,
+   "Self-harm": 118,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Pakistan",
+   "Interpersonal violence": 13446,
+   "Alcohol use disorders": 2142,
+   "Drug use disorders": 867,
+   "Self-harm": 17688,
+   "Conflict and terrorism": 500
+ },
+ {
+   "Country Name": "Palau",
+   "Interpersonal violence": 2,
+   "Alcohol use disorders": 0,
+   "Drug use disorders": 0,
+   "Self-harm": 3,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Palestine",
+   "Interpersonal violence": 307,
+   "Alcohol use disorders": 7,
+   "Drug use disorders": 8,
+   "Self-harm": 124,
+   "Conflict and terrorism": 60
+ },
+ {
+   "Country Name": "Panama",
+   "Interpersonal violence": 625,
+   "Alcohol use disorders": 32,
+   "Drug use disorders": 19,
+   "Self-harm": 199,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Papua New Guinea",
+   "Interpersonal violence": 983,
+   "Alcohol use disorders": 99,
+   "Drug use disorders": 25,
+   "Self-harm": 289,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Paraguay",
+   "Interpersonal violence": 823,
+   "Alcohol use disorders": 318,
+   "Drug use disorders": 15,
+   "Self-harm": 427,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Peru",
+   "Interpersonal violence": 1142,
+   "Alcohol use disorders": 342,
+   "Drug use disorders": 166,
+   "Self-harm": 1016,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Philippines",
+   "Interpersonal violence": 15570,
+   "Alcohol use disorders": 1105,
+   "Drug use disorders": 325,
+   "Self-harm": 4569,
+   "Conflict and terrorism": 419
+ },
+ {
+   "Country Name": "Poland",
+   "Interpersonal violence": 617,
+   "Alcohol use disorders": 4380,
+   "Drug use disorders": 211,
+   "Self-harm": 6578,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Portugal",
+   "Interpersonal violence": 166,
+   "Alcohol use disorders": 182,
+   "Drug use disorders": 51,
+   "Self-harm": 1357,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Puerto Rico",
+   "Interpersonal violence": 696,
+   "Alcohol use disorders": 141,
+   "Drug use disorders": 55,
+   "Self-harm": 249,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Qatar",
+   "Interpersonal violence": 27,
+   "Alcohol use disorders": 6,
+   "Drug use disorders": 8,
+   "Self-harm": 131,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Romania",
+   "Interpersonal violence": 380,
+   "Alcohol use disorders": 545,
+   "Drug use disorders": 149,
+   "Self-harm": 2182,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Russia",
+   "Interpersonal violence": 22285,
+   "Alcohol use disorders": 28460,
+   "Drug use disorders": 5877,
+   "Self-harm": 39040,
+   "Conflict and terrorism": 20
+ },
+ {
+   "Country Name": "Rwanda",
+   "Interpersonal violence": 461,
+   "Alcohol use disorders": 123,
+   "Drug use disorders": 19,
+   "Self-harm": 759,
+   "Conflict and terrorism": 1
+ },
+ {
+   "Country Name": "Saint Kitts and Nevis",
+   "Interpersonal violence": 10,
+   "Alcohol use disorders": 11,
+   "Drug use disorders": 0,
+   "Self-harm": 2,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Saint Lucia",
+   "Interpersonal violence": 32,
+   "Alcohol use disorders": 9,
+   "Drug use disorders": 1,
+   "Self-harm": 13,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Saint Vincent and the Grenadines",
+   "Interpersonal violence": 23,
+   "Alcohol use disorders": 8,
+   "Drug use disorders": 0,
+   "Self-harm": 8,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Samoa",
+   "Interpersonal violence": 12,
+   "Alcohol use disorders": 2,
+   "Drug use disorders": 1,
+   "Self-harm": 25,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "San Marino",
+   "Interpersonal violence": 0,
+   "Alcohol use disorders": 0,
+   "Drug use disorders": 0,
+   "Self-harm": 4,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Saudi Arabia",
+   "Interpersonal violence": 403,
+   "Alcohol use disorders": 104,
+   "Drug use disorders": 201,
+   "Self-harm": 1791,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Scotland",
+   "Interpersonal violence": 48,
+   "Alcohol use disorders": 270,
+   "Drug use disorders": 506,
+   "Self-harm": 671,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Senegal",
+   "Interpersonal violence": 187,
+   "Alcohol use disorders": 89,
+   "Drug use disorders": 20,
+   "Self-harm": 1126,
+   "Conflict and terrorism": 2
+ },
+ {
+   "Country Name": "Serbia",
+   "Interpersonal violence": 203,
+   "Alcohol use disorders": 376,
+   "Drug use disorders": 72,
+   "Self-harm": 1535,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Singapore",
+   "Interpersonal violence": 25,
+   "Alcohol use disorders": 13,
+   "Drug use disorders": 16,
+   "Self-harm": 464,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Slovakia",
+   "Interpersonal violence": 118,
+   "Alcohol use disorders": 218,
+   "Drug use disorders": 18,
+   "Self-harm": 695,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Slovenia",
+   "Interpersonal violence": 19,
+   "Alcohol use disorders": 209,
+   "Drug use disorders": 28,
+   "Self-harm": 410,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Solomon Islands",
+   "Interpersonal violence": 34,
+   "Alcohol use disorders": 13,
+   "Drug use disorders": 4,
+   "Self-harm": 144,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Somalia",
+   "Interpersonal violence": 2578,
+   "Alcohol use disorders": 143,
+   "Drug use disorders": 23,
+   "Self-harm": 1325,
+   "Conflict and terrorism": 1686
+ },
+ {
+   "Country Name": "South Africa",
+   "Interpersonal violence": 19122,
+   "Alcohol use disorders": 582,
+   "Drug use disorders": 115,
+   "Self-harm": 7864,
+   "Conflict and terrorism": 38
+ },
+ {
+   "Country Name": "South Korea",
+   "Interpersonal violence": 746,
+   "Alcohol use disorders": 997,
+   "Drug use disorders": 119,
+   "Self-harm": 14575,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "South Sudan",
+   "Interpersonal violence": 874,
+   "Alcohol use disorders": 54,
+   "Drug use disorders": 10,
+   "Self-harm": 419,
+   "Conflict and terrorism": 470
+ },
+ {
+   "Country Name": "Spain",
+   "Interpersonal violence": 335,
+   "Alcohol use disorders": 429,
+   "Drug use disorders": 728,
+   "Self-harm": 3759,
+   "Conflict and terrorism": 1
+ },
+ {
+   "Country Name": "Sri Lanka",
+   "Interpersonal violence": 768,
+   "Alcohol use disorders": 398,
+   "Drug use disorders": 134,
+   "Self-harm": 4425,
+   "Conflict and terrorism": 282
+ },
+ {
+   "Country Name": "Sudan",
+   "Interpersonal violence": 626,
+   "Alcohol use disorders": 100,
+   "Drug use disorders": 380,
+   "Self-harm": 2029,
+   "Conflict and terrorism": 101
+ },
+ {
+   "Country Name": "Suriname",
+   "Interpersonal violence": 49,
+   "Alcohol use disorders": 16,
+   "Drug use disorders": 3,
+   "Self-harm": 145,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Sweden",
+   "Interpersonal violence": 120,
+   "Alcohol use disorders": 364,
+   "Drug use disorders": 485,
+   "Self-harm": 1369,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Switzerland",
+   "Interpersonal violence": 54,
+   "Alcohol use disorders": 277,
+   "Drug use disorders": 212,
+   "Self-harm": 1171,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Syria",
+   "Interpersonal violence": 300,
+   "Alcohol use disorders": 61,
+   "Drug use disorders": 153,
+   "Self-harm": 320,
+   "Conflict and terrorism": 6900
+ },
+ {
+   "Country Name": "Taiwan",
+   "Interpersonal violence": 343,
+   "Alcohol use disorders": 415,
+   "Drug use disorders": 518,
+   "Self-harm": 4299,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Tajikistan",
+   "Interpersonal violence": 234,
+   "Alcohol use disorders": 147,
+   "Drug use disorders": 24,
+   "Self-harm": 464,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Tanzania",
+   "Interpersonal violence": 3462,
+   "Alcohol use disorders": 350,
+   "Drug use disorders": 193,
+   "Self-harm": 3231,
+   "Conflict and terrorism": 19
+ },
+ {
+   "Country Name": "Thailand",
+   "Interpersonal violence": 4035,
+   "Alcohol use disorders": 634,
+   "Drug use disorders": 486,
+   "Self-harm": 7107,
+   "Conflict and terrorism": 60
+ },
+ {
+   "Country Name": "Timor",
+   "Interpersonal violence": 37,
+   "Alcohol use disorders": 7,
+   "Drug use disorders": 2,
+   "Self-harm": 63,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Togo",
+   "Interpersonal violence": 559,
+   "Alcohol use disorders": 53,
+   "Drug use disorders": 18,
+   "Self-harm": 591,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Tonga",
+   "Interpersonal violence": 2,
+   "Alcohol use disorders": 1,
+   "Drug use disorders": 0,
+   "Self-harm": 5,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Trinidad and Tobago",
+   "Interpersonal violence": 316,
+   "Alcohol use disorders": 32,
+   "Drug use disorders": 10,
+   "Self-harm": 155,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Tunisia",
+   "Interpersonal violence": 78,
+   "Alcohol use disorders": 34,
+   "Drug use disorders": 158,
+   "Self-harm": 410,
+   "Conflict and terrorism": 15
+ },
+ {
+   "Country Name": "Turkey",
+   "Interpersonal violence": 1605,
+   "Alcohol use disorders": 240,
+   "Drug use disorders": 345,
+   "Self-harm": 2585,
+   "Conflict and terrorism": 309
+ },
+ {
+   "Country Name": "Turkmenistan",
+   "Interpersonal violence": 214,
+   "Alcohol use disorders": 180,
+   "Drug use disorders": 66,
+   "Self-harm": 440,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Tuvalu",
+   "Interpersonal violence": 1,
+   "Alcohol use disorders": 0,
+   "Drug use disorders": 0,
+   "Self-harm": 2,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Uganda",
+   "Interpersonal violence": 2378,
+   "Alcohol use disorders": 261,
+   "Drug use disorders": 46,
+   "Self-harm": 2167,
+   "Conflict and terrorism": 61
+ },
+ {
+   "Country Name": "Ukraine",
+   "Interpersonal violence": 5279,
+   "Alcohol use disorders": 7716,
+   "Drug use disorders": 1477,
+   "Self-harm": 13690,
+   "Conflict and terrorism": 227
+ },
+ {
+   "Country Name": "United Arab Emirates",
+   "Interpersonal violence": 87,
+   "Alcohol use disorders": 76,
+   "Drug use disorders": 805,
+   "Self-harm": 664,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "United Kingdom",
+   "Interpersonal violence": 339,
+   "Alcohol use disorders": 1762,
+   "Drug use disorders": 2654,
+   "Self-harm": 5618,
+   "Conflict and terrorism": 2
+ },
+ {
+   "Country Name": "United States",
+   "Interpersonal violence": 17709,
+   "Alcohol use disorders": 14044,
+   "Drug use disorders": 65717,
+   "Self-harm": 45349,
+   "Conflict and terrorism": 31
+ },
+ {
+   "Country Name": "Uruguay",
+   "Interpersonal violence": 212,
+   "Alcohol use disorders": 111,
+   "Drug use disorders": 15,
+   "Self-harm": 666,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Uzbekistan",
+   "Interpersonal violence": 974,
+   "Alcohol use disorders": 156,
+   "Drug use disorders": 188,
+   "Self-harm": 3793,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Venezuela",
+   "Interpersonal violence": 10944,
+   "Alcohol use disorders": 188,
+   "Drug use disorders": 90,
+   "Self-harm": 2310,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Vietnam",
+   "Interpersonal violence": 1267,
+   "Alcohol use disorders": 1000,
+   "Drug use disorders": 1176,
+   "Self-harm": 8114,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Wales",
+   "Interpersonal violence": 18,
+   "Alcohol use disorders": 90,
+   "Drug use disorders": 173,
+   "Self-harm": 310,
+   "Conflict and terrorism": 0
+ },
+ {
+   "Country Name": "Yemen",
+   "Interpersonal violence": 820,
+   "Alcohol use disorders": 82,
+   "Drug use disorders": 261,
+   "Self-harm": 1560,
+   "Conflict and terrorism": 13402
+ },
+ {
+   "Country Name": "Zambia",
+   "Interpersonal violence": 1616,
+   "Alcohol use disorders": 137,
+   "Drug use disorders": 60,
+   "Self-harm": 1398,
+   "Conflict and terrorism": 1
+ },
+ {
+   "Country Name": "Zimbabwe",
+   "Interpersonal violence": 1434,
+   "Alcohol use disorders": 53,
+   "Drug use disorders": 127,
+   "Self-harm": 2403,
+   "Conflict and terrorism": 11
+ }
+]

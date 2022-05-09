@@ -1,0 +1,1197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <Rank>1</Rank>
+    <Country Name>Netherlands</Country Name>
+    <Male Height in Cm>183.78</Male Height in Cm>
+    <Female Height in Cm>170.36</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>2</Rank>
+    <Country Name>Montenegro</Country Name>
+    <Male Height in Cm>183.30</Male Height in Cm>
+    <Female Height in Cm>169.96</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>3</Rank>
+    <Country Name>Estonia</Country Name>
+    <Male Height in Cm>182.79</Male Height in Cm>
+    <Female Height in Cm>168.66</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>4</Rank>
+    <Country Name>Bosnia and Herzegovina</Country Name>
+    <Male Height in Cm>182.47</Male Height in Cm>
+    <Female Height in Cm>167.47</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>5</Rank>
+    <Country Name>Iceland</Country Name>
+    <Male Height in Cm>182.10</Male Height in Cm>
+    <Female Height in Cm>168.91</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>6</Rank>
+    <Country Name>Denmark</Country Name>
+    <Male Height in Cm>181.89</Male Height in Cm>
+    <Female Height in Cm>169.47</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>7</Rank>
+    <Country Name>Czech Republic</Country Name>
+    <Male Height in Cm>181.19</Male Height in Cm>
+    <Female Height in Cm>167.96</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>8</Rank>
+    <Country Name>Latvia</Country Name>
+    <Male Height in Cm>181.17</Male Height in Cm>
+    <Female Height in Cm>168.81</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>9</Rank>
+    <Country Name>Slovakia</Country Name>
+    <Male Height in Cm>181.02</Male Height in Cm>
+    <Female Height in Cm>167.12</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>10</Rank>
+    <Country Name>Slovenia</Country Name>
+    <Male Height in Cm>180.98</Male Height in Cm>
+    <Female Height in Cm>167.20</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>11</Rank>
+    <Country Name>Ukraine</Country Name>
+    <Male Height in Cm>180.98</Male Height in Cm>
+    <Female Height in Cm>166.62</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>12</Rank>
+    <Country Name>Croatia</Country Name>
+    <Male Height in Cm>180.76</Male Height in Cm>
+    <Female Height in Cm>166.80</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>13</Rank>
+    <Country Name>Serbia</Country Name>
+    <Male Height in Cm>180.74</Male Height in Cm>
+    <Female Height in Cm>168.29</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>14</Rank>
+    <Country Name>Lithuania</Country Name>
+    <Male Height in Cm>180.72</Male Height in Cm>
+    <Female Height in Cm>167.63</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>15</Rank>
+    <Country Name>Poland</Country Name>
+    <Male Height in Cm>180.69</Male Height in Cm>
+    <Female Height in Cm>165.78</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>16</Rank>
+    <Country Name>Finland</Country Name>
+    <Male Height in Cm>180.57</Male Height in Cm>
+    <Female Height in Cm>166.48</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>17</Rank>
+    <Country Name>Norway</Country Name>
+    <Male Height in Cm>180.48</Male Height in Cm>
+    <Female Height in Cm>166.45</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>18</Rank>
+    <Country Name>Sweden</Country Name>
+    <Male Height in Cm>180.46</Male Height in Cm>
+    <Female Height in Cm>166.67</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>19</Rank>
+    <Country Name>Germany</Country Name>
+    <Male Height in Cm>180.28</Male Height in Cm>
+    <Female Height in Cm>166.18</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>20</Rank>
+    <Country Name>Dominica</Country Name>
+    <Male Height in Cm>180.15</Male Height in Cm>
+    <Female Height in Cm>166.89</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>21</Rank>
+    <Country Name>Bermuda</Country Name>
+    <Male Height in Cm>179.72</Male Height in Cm>
+    <Female Height in Cm>166.11</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>22</Rank>
+    <Country Name>Puerto Rico</Country Name>
+    <Male Height in Cm>179.48</Male Height in Cm>
+    <Female Height in Cm>163.06</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>23</Rank>
+    <Country Name>Greece</Country Name>
+    <Male Height in Cm>179.26</Male Height in Cm>
+    <Female Height in Cm>165.81</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>24</Rank>
+    <Country Name>Belgium</Country Name>
+    <Male Height in Cm>179.09</Male Height in Cm>
+    <Female Height in Cm>163.40</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>25</Rank>
+    <Country Name>Ireland</Country Name>
+    <Male Height in Cm>179.04</Male Height in Cm>
+    <Female Height in Cm>164.50</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>26</Rank>
+    <Country Name>Lebanon</Country Name>
+    <Male Height in Cm>178.96</Male Height in Cm>
+    <Female Height in Cm>163.67</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>27</Rank>
+    <Country Name>Andorra</Country Name>
+    <Male Height in Cm>178.84</Male Height in Cm>
+    <Female Height in Cm>165.53</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>28</Rank>
+    <Country Name>Antigua and Barbuda</Country Name>
+    <Male Height in Cm>178.84</Male Height in Cm>
+    <Female Height in Cm>165.72</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>29</Rank>
+    <Country Name>Australia</Country Name>
+    <Male Height in Cm>178.77</Male Height in Cm>
+    <Female Height in Cm>164.67</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>30</Rank>
+    <Country Name>Canada</Country Name>
+    <Male Height in Cm>178.75</Male Height in Cm>
+    <Female Height in Cm>164.73</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>31</Rank>
+    <Country Name>Switzerland</Country Name>
+    <Male Height in Cm>178.73</Male Height in Cm>
+    <Female Height in Cm>164.33</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>32</Rank>
+    <Country Name>Grenada</Country Name>
+    <Male Height in Cm>178.70</Male Height in Cm>
+    <Female Height in Cm>165.99</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>33</Rank>
+    <Country Name>Belarus</Country Name>
+    <Male Height in Cm>178.69</Male Height in Cm>
+    <Female Height in Cm>166.93</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>34</Rank>
+    <Country Name>France</Country Name>
+    <Male Height in Cm>178.60</Male Height in Cm>
+    <Female Height in Cm>164.49</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>35</Rank>
+    <Country Name>Austria</Country Name>
+    <Male Height in Cm>178.52</Male Height in Cm>
+    <Female Height in Cm>166.93</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>36</Rank>
+    <Country Name>Luxembourg</Country Name>
+    <Male Height in Cm>178.46</Male Height in Cm>
+    <Female Height in Cm>165.07</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>37</Rank>
+    <Country Name>Cook Islands</Country Name>
+    <Male Height in Cm>178.32</Male Height in Cm>
+    <Female Height in Cm>167.31</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>38</Rank>
+    <Country Name>French Polynesia</Country Name>
+    <Male Height in Cm>178.32</Male Height in Cm>
+    <Female Height in Cm>166.52</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>39</Rank>
+    <Country Name>United Kingdom</Country Name>
+    <Male Height in Cm>178.21</Male Height in Cm>
+    <Female Height in Cm>163.94</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>40</Rank>
+    <Country Name>Romania</Country Name>
+    <Male Height in Cm>177.82</Male Height in Cm>
+    <Female Height in Cm>164.73</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>41</Rank>
+    <Country Name>New Zealand</Country Name>
+    <Male Height in Cm>177.72</Male Height in Cm>
+    <Female Height in Cm>164.66</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>42</Rank>
+    <Country Name>Saint Vincent and the Grenadines</Country Name>
+    <Male Height in Cm>177.49</Male Height in Cm>
+    <Female Height in Cm>165.30</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>43</Rank>
+    <Country Name>Niue</Country Name>
+    <Male Height in Cm>177.19</Male Height in Cm>
+    <Female Height in Cm>167.03</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>44</Rank>
+    <Country Name>American Samoa</Country Name>
+    <Male Height in Cm>177.09</Male Height in Cm>
+    <Female Height in Cm>167.55</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>45</Rank>
+    <Country Name>Barbados</Country Name>
+    <Male Height in Cm>177.03</Male Height in Cm>
+    <Female Height in Cm>165.66</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>46</Rank>
+    <Country Name>Jamaica</Country Name>
+    <Male Height in Cm>176.97</Male Height in Cm>
+    <Female Height in Cm>164.32</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>47</Rank>
+    <Country Name>United States</Country Name>
+    <Male Height in Cm>176.94</Male Height in Cm>
+    <Female Height in Cm>163.31</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>48</Rank>
+    <Country Name>Tunisia</Country Name>
+    <Male Height in Cm>176.85</Male Height in Cm>
+    <Female Height in Cm>161.69</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>49</Rank>
+    <Country Name>Russia</Country Name>
+    <Male Height in Cm>176.65</Male Height in Cm>
+    <Female Height in Cm>164.52</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>50</Rank>
+    <Country Name>Hungary</Country Name>
+    <Male Height in Cm>176.59</Male Height in Cm>
+    <Female Height in Cm>162.55</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>51</Rank>
+    <Country Name>Saint Lucia</Country Name>
+    <Male Height in Cm>176.43</Male Height in Cm>
+    <Female Height in Cm>165.52</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>52</Rank>
+    <Country Name>North Macedonia</Country Name>
+    <Male Height in Cm>176.43</Male Height in Cm>
+    <Female Height in Cm>160.88</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>53</Rank>
+    <Country Name>Libya</Country Name>
+    <Male Height in Cm>176.39</Male Height in Cm>
+    <Female Height in Cm>162.56</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>54</Rank>
+    <Country Name>Turkey</Country Name>
+    <Male Height in Cm>176.36</Male Height in Cm>
+    <Female Height in Cm>161.80</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>55</Rank>
+    <Country Name>Morocco</Country Name>
+    <Male Height in Cm>176.35</Male Height in Cm>
+    <Female Height in Cm>161.18</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>56</Rank>
+    <Country Name>Senegal</Country Name>
+    <Male Height in Cm>176.18</Male Height in Cm>
+    <Female Height in Cm>163.92</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>57</Rank>
+    <Country Name>Spain</Country Name>
+    <Male Height in Cm>176.11</Male Height in Cm>
+    <Female Height in Cm>162.03</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>58</Rank>
+    <Country Name>Tokelau</Country Name>
+    <Male Height in Cm>176.06</Male Height in Cm>
+    <Female Height in Cm>166.08</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>59</Rank>
+    <Country Name>Trinidad and Tobago</Country Name>
+    <Male Height in Cm>176.03</Male Height in Cm>
+    <Female Height in Cm>163.38</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>60</Rank>
+    <Country Name>Israel</Country Name>
+    <Male Height in Cm>175.98</Male Height in Cm>
+    <Female Height in Cm>162.22</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>61</Rank>
+    <Country Name>Georgia</Country Name>
+    <Male Height in Cm>175.98</Male Height in Cm>
+    <Female Height in Cm>163.24</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>62</Rank>
+    <Country Name>Seychelles</Country Name>
+    <Male Height in Cm>175.90</Male Height in Cm>
+    <Female Height in Cm>162.47</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>63</Rank>
+    <Country Name>Brazil</Country Name>
+    <Male Height in Cm>175.73</Male Height in Cm>
+    <Female Height in Cm>162.41</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>64</Rank>
+    <Country Name>China</Country Name>
+    <Male Height in Cm>175.66</Male Height in Cm>
+    <Female Height in Cm>163.46</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>65</Rank>
+    <Country Name>Iran</Country Name>
+    <Male Height in Cm>175.62</Male Height in Cm>
+    <Female Height in Cm>161.18</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>66</Rank>
+    <Country Name>Moldova</Country Name>
+    <Male Height in Cm>175.59</Male Height in Cm>
+    <Female Height in Cm>162.96</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>67</Rank>
+    <Country Name>South Korea</Country Name>
+    <Male Height in Cm>175.52</Male Height in Cm>
+    <Female Height in Cm>163.23</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>68</Rank>
+    <Country Name>Kazakhstan</Country Name>
+    <Male Height in Cm>175.50</Male Height in Cm>
+    <Female Height in Cm>161.74</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>69</Rank>
+    <Country Name>Tonga</Country Name>
+    <Male Height in Cm>175.11</Male Height in Cm>
+    <Female Height in Cm>166.08</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>70</Rank>
+    <Country Name>Palestine</Country Name>
+    <Male Height in Cm>175.05</Male Height in Cm>
+    <Female Height in Cm>161.28</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>71</Rank>
+    <Country Name>Algeria</Country Name>
+    <Male Height in Cm>175.04</Male Height in Cm>
+    <Female Height in Cm>162.35</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>72</Rank>
+    <Country Name>Mali</Country Name>
+    <Male Height in Cm>175.02</Male Height in Cm>
+    <Female Height in Cm>161.99</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>73</Rank>
+    <Country Name>Kuwait</Country Name>
+    <Male Height in Cm>174.96</Male Height in Cm>
+    <Female Height in Cm>160.10</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>74</Rank>
+    <Country Name>Jordan</Country Name>
+    <Male Height in Cm>174.84</Male Height in Cm>
+    <Female Height in Cm>159.46</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>75</Rank>
+    <Country Name>Hong Kong</Country Name>
+    <Male Height in Cm>174.83</Male Height in Cm>
+    <Female Height in Cm>160.62</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>76</Rank>
+    <Country Name>Argentina</Country Name>
+    <Male Height in Cm>174.76</Male Height in Cm>
+    <Female Height in Cm>161.22</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>77</Rank>
+    <Country Name>North Korea</Country Name>
+    <Male Height in Cm>174.69</Male Height in Cm>
+    <Female Height in Cm>161.22</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>78</Rank>
+    <Country Name>Dominican Republic</Country Name>
+    <Male Height in Cm>174.65</Male Height in Cm>
+    <Female Height in Cm>161.21</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>79</Rank>
+    <Country Name>Egypt</Country Name>
+    <Male Height in Cm>174.57</Male Height in Cm>
+    <Female Height in Cm>160.88</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>80</Rank>
+    <Country Name>Suriname</Country Name>
+    <Male Height in Cm>174.51</Male Height in Cm>
+    <Female Height in Cm>162.26</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>81</Rank>
+    <Country Name>Italy</Country Name>
+    <Male Height in Cm>174.42</Male Height in Cm>
+    <Female Height in Cm>161.81</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>82</Rank>
+    <Country Name>Samoa</Country Name>
+    <Male Height in Cm>174.42</Male Height in Cm>
+    <Female Height in Cm>163.82</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>83</Rank>
+    <Country Name>Bahamas</Country Name>
+    <Male Height in Cm>174.40</Male Height in Cm>
+    <Female Height in Cm>163.46</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>84</Rank>
+    <Country Name>Malta</Country Name>
+    <Male Height in Cm>174.38</Male Height in Cm>
+    <Female Height in Cm>162.95</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>85</Rank>
+    <Country Name>Turkmenistan</Country Name>
+    <Male Height in Cm>174.37</Male Height in Cm>
+    <Female Height in Cm>162.83</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>86</Rank>
+    <Country Name>Portugal</Country Name>
+    <Male Height in Cm>174.37</Male Height in Cm>
+    <Female Height in Cm>161.23</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>87</Rank>
+    <Country Name>Uruguay</Country Name>
+    <Male Height in Cm>174.32</Male Height in Cm>
+    <Female Height in Cm>161.56</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>88</Rank>
+    <Country Name>Bulgaria</Country Name>
+    <Male Height in Cm>174.17</Male Height in Cm>
+    <Female Height in Cm>164.58</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>89</Rank>
+    <Country Name>United Arab Emirates</Country Name>
+    <Male Height in Cm>174.08</Male Height in Cm>
+    <Female Height in Cm>160.53</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>90</Rank>
+    <Country Name>Albania</Country Name>
+    <Male Height in Cm>174.07</Male Height in Cm>
+    <Female Height in Cm>162.23</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>91</Rank>
+    <Country Name>Costa Rica</Country Name>
+    <Male Height in Cm>174.04</Male Height in Cm>
+    <Female Height in Cm>160.36</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>92</Rank>
+    <Country Name>Azerbaijan</Country Name>
+    <Male Height in Cm>174.00</Male Height in Cm>
+    <Female Height in Cm>161.37</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>93</Rank>
+    <Country Name>Fiji</Country Name>
+    <Male Height in Cm>173.98</Male Height in Cm>
+    <Female Height in Cm>164.28</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>94</Rank>
+    <Country Name>Greenland</Country Name>
+    <Male Height in Cm>173.84</Male Height in Cm>
+    <Female Height in Cm>161.40</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>95</Rank>
+    <Country Name>Paraguay</Country Name>
+    <Male Height in Cm>173.81</Male Height in Cm>
+    <Female Height in Cm>159.76</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>96</Rank>
+    <Country Name>Iraq</Country Name>
+    <Male Height in Cm>173.79</Male Height in Cm>
+    <Female Height in Cm>158.75</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>97</Rank>
+    <Country Name>Saint Kitts and Nevis</Country Name>
+    <Male Height in Cm>173.71</Male Height in Cm>
+    <Female Height in Cm>162.78</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>98</Rank>
+    <Country Name>Armenia</Country Name>
+    <Male Height in Cm>173.67</Male Height in Cm>
+    <Female Height in Cm>159.85</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>99</Rank>
+    <Country Name>Cuba</Country Name>
+    <Male Height in Cm>173.56</Male Height in Cm>
+    <Female Height in Cm>160.13</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>100</Rank>
+    <Country Name>Venezuela</Country Name>
+    <Male Height in Cm>173.53</Male Height in Cm>
+    <Female Height in Cm>160.04</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>101</Rank>
+    <Country Name>Taiwan</Country Name>
+    <Male Height in Cm>173.53</Male Height in Cm>
+    <Female Height in Cm>160.70</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>102</Rank>
+    <Country Name>Singapore</Country Name>
+    <Male Height in Cm>173.50</Male Height in Cm>
+    <Female Height in Cm>161.30</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>103</Rank>
+    <Country Name>Qatar</Country Name>
+    <Male Height in Cm>173.27</Male Height in Cm>
+    <Female Height in Cm>160.72</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>104</Rank>
+    <Country Name>Botswana</Country Name>
+    <Male Height in Cm>173.16</Male Height in Cm>
+    <Female Height in Cm>162.06</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>105</Rank>
+    <Country Name>Mauritius</Country Name>
+    <Male Height in Cm>173.01</Male Height in Cm>
+    <Female Height in Cm>158.94</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>106</Rank>
+    <Country Name>Chile</Country Name>
+    <Male Height in Cm>172.88</Male Height in Cm>
+    <Female Height in Cm>159.42</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>107</Rank>
+    <Country Name>Bahrain</Country Name>
+    <Male Height in Cm>172.76</Male Height in Cm>
+    <Female Height in Cm>158.29</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>108</Rank>
+    <Country Name>Cyprus</Country Name>
+    <Male Height in Cm>172.75</Male Height in Cm>
+    <Female Height in Cm>160.55</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>109</Rank>
+    <Country Name>Haiti</Country Name>
+    <Male Height in Cm>172.23</Male Height in Cm>
+    <Female Height in Cm>160.58</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>110</Rank>
+    <Country Name>Guyana</Country Name>
+    <Male Height in Cm>172.15</Male Height in Cm>
+    <Female Height in Cm>159.57</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>111</Rank>
+    <Country Name>Cameroon</Country Name>
+    <Male Height in Cm>172.13</Male Height in Cm>
+    <Female Height in Cm>160.41</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>112</Rank>
+    <Country Name>Sudan</Country Name>
+    <Male Height in Cm>172.07</Male Height in Cm>
+    <Female Height in Cm>160.36</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>113</Rank>
+    <Country Name>Japan</Country Name>
+    <Male Height in Cm>172.06</Male Height in Cm>
+    <Female Height in Cm>158.50</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>114</Rank>
+    <Country Name>Burkina Faso</Country Name>
+    <Male Height in Cm>171.89</Male Height in Cm>
+    <Female Height in Cm>161.33</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>115</Rank>
+    <Country Name>Colombia</Country Name>
+    <Male Height in Cm>171.85</Male Height in Cm>
+    <Female Height in Cm>157.96</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>116</Rank>
+    <Country Name>Chad</Country Name>
+    <Male Height in Cm>171.84</Male Height in Cm>
+    <Female Height in Cm>162.12</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>117</Rank>
+    <Country Name>Oman</Country Name>
+    <Male Height in Cm>171.70</Male Height in Cm>
+    <Female Height in Cm>158.44</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>118</Rank>
+    <Country Name>Kyrgyzstan</Country Name>
+    <Male Height in Cm>171.66</Male Height in Cm>
+    <Female Height in Cm>160.20</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>119</Rank>
+    <Country Name>Syria</Country Name>
+    <Male Height in Cm>171.64</Male Height in Cm>
+    <Female Height in Cm>159.38</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>120</Rank>
+    <Country Name>Thailand</Country Name>
+    <Male Height in Cm>171.61</Male Height in Cm>
+    <Female Height in Cm>159.42</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>121</Rank>
+    <Country Name>Nigeria</Country Name>
+    <Male Height in Cm>171.55</Male Height in Cm>
+    <Female Height in Cm>158.14</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>122</Rank>
+    <Country Name>Tuvalu</Country Name>
+    <Male Height in Cm>171.30</Male Height in Cm>
+    <Female Height in Cm>163.57</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>123</Rank>
+    <Country Name>Republic of the Congo</Country Name>
+    <Male Height in Cm>171.23</Male Height in Cm>
+    <Female Height in Cm>158.78</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>124</Rank>
+    <Country Name>Somalia</Country Name>
+    <Male Height in Cm>171.22</Male Height in Cm>
+    <Female Height in Cm>159.86</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>125</Rank>
+    <Country Name>Uzbekistan</Country Name>
+    <Male Height in Cm>170.94</Male Height in Cm>
+    <Female Height in Cm>160.29</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>126</Rank>
+    <Country Name>Djibouti</Country Name>
+    <Male Height in Cm>170.77</Male Height in Cm>
+    <Female Height in Cm>159.82</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>127</Rank>
+    <Country Name>Guinea</Country Name>
+    <Male Height in Cm>170.70</Male Height in Cm>
+    <Female Height in Cm>158.75</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>128</Rank>
+    <Country Name>Zimbabwe</Country Name>
+    <Male Height in Cm>170.69</Male Height in Cm>
+    <Female Height in Cm>159.85</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>129</Rank>
+    <Country Name>Mongolia</Country Name>
+    <Male Height in Cm>170.67</Male Height in Cm>
+    <Female Height in Cm>159.89</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>130</Rank>
+    <Country Name>El Salvador</Country Name>
+    <Male Height in Cm>170.67</Male Height in Cm>
+    <Female Height in Cm>156.39</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>131</Rank>
+    <Country Name>Saudi Arabia</Country Name>
+    <Male Height in Cm>170.67</Male Height in Cm>
+    <Female Height in Cm>158.84</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>132</Rank>
+    <Country Name>Palau</Country Name>
+    <Male Height in Cm>170.62</Male Height in Cm>
+    <Female Height in Cm>159.52</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>133</Rank>
+    <Country Name>Eritrea</Country Name>
+    <Male Height in Cm>170.60</Male Height in Cm>
+    <Female Height in Cm>157.58</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>134</Rank>
+    <Country Name>Belize</Country Name>
+    <Male Height in Cm>170.52</Male Height in Cm>
+    <Female Height in Cm>158.12</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>135</Rank>
+    <Country Name>Gabon</Country Name>
+    <Male Height in Cm>170.48</Male Height in Cm>
+    <Female Height in Cm>160.05</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>136</Rank>
+    <Country Name>Kenya</Country Name>
+    <Male Height in Cm>170.46</Male Height in Cm>
+    <Female Height in Cm>159.43</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>137</Rank>
+    <Country Name>Sao Tome and Principe</Country Name>
+    <Male Height in Cm>170.37</Male Height in Cm>
+    <Female Height in Cm>159.81</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>138</Rank>
+    <Country Name>Ghana</Country Name>
+    <Male Height in Cm>170.30</Male Height in Cm>
+    <Female Height in Cm>158.86</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>139</Rank>
+    <Country Name>Mexico</Country Name>
+    <Male Height in Cm>170.29</Male Height in Cm>
+    <Female Height in Cm>157.90</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>140</Rank>
+    <Country Name>Niger</Country Name>
+    <Male Height in Cm>170.26</Male Height in Cm>
+    <Female Height in Cm>159.81</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>141</Rank>
+    <Country Name>Panama</Country Name>
+    <Male Height in Cm>170.19</Male Height in Cm>
+    <Female Height in Cm>158.19</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>142</Rank>
+    <Country Name>Togo</Country Name>
+    <Male Height in Cm>170.14</Male Height in Cm>
+    <Female Height in Cm>159.13</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>143</Rank>
+    <Country Name>Kiribati</Country Name>
+    <Male Height in Cm>170.09</Male Height in Cm>
+    <Female Height in Cm>161.04</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>144</Rank>
+    <Country Name>Nicaragua</Country Name>
+    <Male Height in Cm>169.91</Male Height in Cm>
+    <Female Height in Cm>155.62</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>145</Rank>
+    <Country Name>Namibia</Country Name>
+    <Male Height in Cm>169.75</Male Height in Cm>
+    <Female Height in Cm>160.26</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>146</Rank>
+    <Country Name>South Africa</Country Name>
+    <Male Height in Cm>169.63</Male Height in Cm>
+    <Female Height in Cm>158.58</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>147</Rank>
+    <Country Name>Honduras</Country Name>
+    <Male Height in Cm>169.59</Male Height in Cm>
+    <Female Height in Cm>155.18</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>148</Rank>
+    <Country Name>Micronesia</Country Name>
+    <Male Height in Cm>169.57</Male Height in Cm>
+    <Female Height in Cm>159.66</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>149</Rank>
+    <Country Name>Nauru</Country Name>
+    <Male Height in Cm>169.57</Male Height in Cm>
+    <Female Height in Cm>157.82</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>150</Rank>
+    <Country Name>Eswatini</Country Name>
+    <Male Height in Cm>169.41</Male Height in Cm>
+    <Female Height in Cm>158.92</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>151</Rank>
+    <Country Name>Malaysia</Country Name>
+    <Male Height in Cm>169.20</Male Height in Cm>
+    <Female Height in Cm>157.06</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>152</Rank>
+    <Country Name>Central African Republic</Country Name>
+    <Male Height in Cm>169.01</Male Height in Cm>
+    <Female Height in Cm>159.65</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>153</Rank>
+    <Country Name>Vietnam</Country Name>
+    <Male Height in Cm>168.89</Male Height in Cm>
+    <Female Height in Cm>158.43</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>154</Rank>
+    <Country Name>Ethiopia</Country Name>
+    <Male Height in Cm>168.84</Male Height in Cm>
+    <Female Height in Cm>157.15</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>155</Rank>
+    <Country Name>Uganda</Country Name>
+    <Male Height in Cm>168.74</Male Height in Cm>
+    <Female Height in Cm>158.53</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>156</Rank>
+    <Country Name>DR Congo</Country Name>
+    <Male Height in Cm>168.60</Male Height in Cm>
+    <Female Height in Cm>156.30</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>157</Rank>
+    <Country Name>Afghanistan</Country Name>
+    <Male Height in Cm>168.50</Male Height in Cm>
+    <Female Height in Cm>156.11</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>158</Rank>
+    <Country Name>Angola</Country Name>
+    <Male Height in Cm>168.46</Male Height in Cm>
+    <Female Height in Cm>158.10</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>159</Rank>
+    <Country Name>Benin</Country Name>
+    <Male Height in Cm>168.44</Male Height in Cm>
+    <Female Height in Cm>158.40</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>160</Rank>
+    <Country Name>Tajikistan</Country Name>
+    <Male Height in Cm>168.43</Male Height in Cm>
+    <Female Height in Cm>158.12</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>161</Rank>
+    <Country Name>Gambia</Country Name>
+    <Male Height in Cm>168.36</Male Height in Cm>
+    <Female Height in Cm>161.73</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>162</Rank>
+    <Country Name>Vanuatu</Country Name>
+    <Male Height in Cm>168.29</Male Height in Cm>
+    <Female Height in Cm>160.48</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>163</Rank>
+    <Country Name>Ivory Coast</Country Name>
+    <Male Height in Cm>168.23</Male Height in Cm>
+    <Female Height in Cm>158.65</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>164</Rank>
+    <Country Name>Equatorial Guinea</Country Name>
+    <Male Height in Cm>168.18</Male Height in Cm>
+    <Female Height in Cm>158.05</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>165</Rank>
+    <Country Name>Guinea-Bissau</Country Name>
+    <Male Height in Cm>168.17</Male Height in Cm>
+    <Female Height in Cm>158.72</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>166</Rank>
+    <Country Name>Bolivia</Country Name>
+    <Male Height in Cm>168.10</Male Height in Cm>
+    <Female Height in Cm>155.58</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>167</Rank>
+    <Country Name>Sri Lanka</Country Name>
+    <Male Height in Cm>168.07</Male Height in Cm>
+    <Female Height in Cm>155.88</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>168</Rank>
+    <Country Name>Lesotho</Country Name>
+    <Male Height in Cm>167.92</Male Height in Cm>
+    <Female Height in Cm>156.72</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>169</Rank>
+    <Country Name>Maldives</Country Name>
+    <Male Height in Cm>167.87</Male Height in Cm>
+    <Female Height in Cm>154.28</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>170</Rank>
+    <Country Name>Comoros</Country Name>
+    <Male Height in Cm>167.72</Male Height in Cm>
+    <Female Height in Cm>156.54</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>171</Rank>
+    <Country Name>Zambia</Country Name>
+    <Male Height in Cm>167.62</Male Height in Cm>
+    <Female Height in Cm>157.32</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>172</Rank>
+    <Country Name>Burundi</Country Name>
+    <Male Height in Cm>167.34</Male Height in Cm>
+    <Female Height in Cm>155.08</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>173</Rank>
+    <Country Name>Pakistan</Country Name>
+    <Male Height in Cm>167.33</Male Height in Cm>
+    <Female Height in Cm>154.77</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>174</Rank>
+    <Country Name>Ecuador</Country Name>
+    <Male Height in Cm>167.32</Male Height in Cm>
+    <Female Height in Cm>155.25</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>175</Rank>
+    <Country Name>Bhutan</Country Name>
+    <Male Height in Cm>167.05</Male Height in Cm>
+    <Female Height in Cm>155.15</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>176</Rank>
+    <Country Name>Tanzania</Country Name>
+    <Male Height in Cm>166.98</Male Height in Cm>
+    <Female Height in Cm>156.89</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>177</Rank>
+    <Country Name>Peru</Country Name>
+    <Male Height in Cm>166.75</Male Height in Cm>
+    <Female Height in Cm>154.39</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>178</Rank>
+    <Country Name>Myanmar</Country Name>
+    <Male Height in Cm>166.70</Male Height in Cm>
+    <Female Height in Cm>154.71</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>179</Rank>
+    <Country Name>India</Country Name>
+    <Male Height in Cm>166.50</Male Height in Cm>
+    <Female Height in Cm>155.18</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>180</Rank>
+    <Country Name>Sierra Leone</Country Name>
+    <Male Height in Cm>166.43</Male Height in Cm>
+    <Female Height in Cm>157.34</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>181</Rank>
+    <Country Name>Brunei</Country Name>
+    <Male Height in Cm>166.31</Male Height in Cm>
+    <Female Height in Cm>154.90</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>182</Rank>
+    <Country Name>Indonesia</Country Name>
+    <Male Height in Cm>166.26</Male Height in Cm>
+    <Female Height in Cm>154.36</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>183</Rank>
+    <Country Name>Rwanda</Country Name>
+    <Male Height in Cm>166.02</Male Height in Cm>
+    <Female Height in Cm>156.72</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>184</Rank>
+    <Country Name>Malawi</Country Name>
+    <Male Height in Cm>165.68</Male Height in Cm>
+    <Female Height in Cm>156.14</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>185</Rank>
+    <Country Name>Mauritania</Country Name>
+    <Male Height in Cm>165.54</Male Height in Cm>
+    <Female Height in Cm>160.06</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>186</Rank>
+    <Country Name>Liberia</Country Name>
+    <Male Height in Cm>165.48</Male Height in Cm>
+    <Female Height in Cm>156.54</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>187</Rank>
+    <Country Name>Cambodia</Country Name>
+    <Male Height in Cm>165.35</Male Height in Cm>
+    <Female Height in Cm>154.75</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>188</Rank>
+    <Country Name>Marshall Islands</Country Name>
+    <Male Height in Cm>165.26</Male Height in Cm>
+    <Female Height in Cm>154.76</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>189</Rank>
+    <Country Name>Philippines</Country Name>
+    <Male Height in Cm>165.23</Male Height in Cm>
+    <Female Height in Cm>154.14</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>190</Rank>
+    <Country Name>Madagascar</Country Name>
+    <Male Height in Cm>165.16</Male Height in Cm>
+    <Female Height in Cm>153.06</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>191</Rank>
+    <Country Name>Bangladesh</Country Name>
+    <Male Height in Cm>165.08</Male Height in Cm>
+    <Female Height in Cm>152.38</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>192</Rank>
+    <Country Name>Yemen</Country Name>
+    <Male Height in Cm>164.42</Male Height in Cm>
+    <Female Height in Cm>154.76</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>193</Rank>
+    <Country Name>Nepal</Country Name>
+    <Male Height in Cm>164.36</Male Height in Cm>
+    <Female Height in Cm>152.39</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>194</Rank>
+    <Country Name>Guatemala</Country Name>
+    <Male Height in Cm>164.36</Male Height in Cm>
+    <Female Height in Cm>150.91</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>195</Rank>
+    <Country Name>Mozambique</Country Name>
+    <Male Height in Cm>164.30</Male Height in Cm>
+    <Female Height in Cm>155.42</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>196</Rank>
+    <Country Name>Papua New Guinea</Country Name>
+    <Male Height in Cm>163.10</Male Height in Cm>
+    <Female Height in Cm>156.89</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>197</Rank>
+    <Country Name>Solomon Islands</Country Name>
+    <Male Height in Cm>163.07</Male Height in Cm>
+    <Female Height in Cm>156.79</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>198</Rank>
+    <Country Name>Laos</Country Name>
+    <Male Height in Cm>162.78</Male Height in Cm>
+    <Female Height in Cm>153.10</Female Height in Cm>
+  </row>
+  <row>
+    <Rank>199</Rank>
+    <Country Name>Timor-Leste</Country Name>
+    <Male Height in Cm>160.13</Male Height in Cm>
+    <Female Height in Cm>152.71</Female Height in Cm>
+  </row>
+</root>

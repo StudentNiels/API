@@ -1,0 +1,18 @@
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <title>Data visualisation</title>
+    </head>
+    <body>
+        <script>
+            const api_url="127.0.0.1:5000/height";
+            async function getHeight() {
+                const response = await fetch(api_url);
+                const data = await response.json();
+                console.log(data);
+            }
+            getHeight().catch;
+        </script>
+        <!--<script type="text/javascript" src="client.js"></script>-->
+    </body>
+</html>

@@ -1,4 +1,4 @@
-Read-Me voor API
+Read-Me voor dataprocessing project
 
 - talen
 	- javascript (client)
@@ -11,3 +11,8 @@ Read-Me voor API
 	- flask
 	- flask_cors
 	- chart.js 3.7.1
+	- simplejson
+	- decimal
+
+Tabellen CSV in PHPMyAdmin geimporteerd met scheiding op de ";"
+Eerste rij zijn kolomnamen aangevinkt
